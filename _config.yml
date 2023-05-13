@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: Drassil/git-wiki-skeleton
 baseurl: "/tc-wiki"
 url: cosimoquiche.github.io
 markdown: kramdown
