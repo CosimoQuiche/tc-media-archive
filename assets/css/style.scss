@@ -13,3 +13,8 @@ body {
   text-align: justify;
   text-align-last: left;
 }
+
+/* Remove the broken footer */
+.site-footer {
+  display: none;
+}
