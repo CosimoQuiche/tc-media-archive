@@ -1,4 +1,4 @@
-remote_theme: Drassil/git-wiki-skeleton
+remote_theme: https://github.com/Drassil/git-wiki-skeleton
 baseurl: "/tc-wiki"
 url: cosimoquiche.github.io
 markdown: kramdown
