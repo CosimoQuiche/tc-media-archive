@@ -23,10 +23,10 @@ Tyler initially thought Derek was "not adventurous enough" to join Caduceus, imp
 
 ## <a id="trivia"></a>Trivia
 
-* Derek's initals (DS) are a reference to the console he was released on, the Nintentdo DS<sup><a id="1.1"></a>[[1]]()</sup>
-* His last name is also a pun for "stylus"<sup><a id="1.2"></a>[1]</sup>
+* Derek's initals (DS) are a reference to the console he was released on, the Nintentdo DS.<sup><a id="1.1"></a>[[1]]()</sup>
+* His last name is also a pun for "stylus".<sup><a id="1.2"></a>[1]</sup>
 * The suburb where Derek grew up is never directly shown in game. However, several unnamed suburbs are visited in both Second Opinion/Under the Knife and Under the Knife 2, one of which could be where he grew up.
 
 ## <a id="references"></a>References
 
-<a id="1">1. ↑ <sup> [1.1](#1.1) [1.2](#1.2)</sup> Yip, Spencer (2006-11-20). ["Nintendo LA Wii Event: Chat with Atlus"](https://www.siliconera.com/nintendo-la-wii-event-chat-with-atlus/). Siliconera. Retrieved 2023-05-13.
+<a id="1"></a>1. ↑ <sup> [1.1](#1.1) [1.2](#1.2)</sup> Yip, Spencer (2006-11-20). ["Nintendo LA Wii Event: Chat with Atlus"](https://www.siliconera.com/nintendo-la-wii-event-chat-with-atlus/). Siliconera. Retrieved 2023-05-13.
