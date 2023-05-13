@@ -1,0 +1,12 @@
+@import "{{ site.theme }}";
+
+/* Remove Header */
+header {
+  display: none;
+}
+
+/* Set all text to centrally justify */
+body {
+  text-align: justify;
+  text-align-last: left;
+}
