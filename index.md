@@ -30,6 +30,9 @@ This wiki is community collected encyclopedia of everything related to the Traum
 
 ## Crossover Media
 
+* Persona 5
+* Etrian Odyssey 2
+
 ## Recent Changes
 
 * 5/13/2023: Creation of the Wiki
