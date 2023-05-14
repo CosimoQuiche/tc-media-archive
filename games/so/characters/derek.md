@@ -1,6 +1,6 @@
 # Derek Stiles
 
-Dr. Derek Stiles is the protagonist of [Trauma Center: Under the Knife](../utk.md), [Trauma Center: Second Opinion](../so.md), and [Trauma Center: Under the Knife 2](../../utk2). He is a genius, world-renowned surgeon, though can be rather bumbling at times. He is gifted with the Healing Touch, specifically being able to slow down time through superhuman concentration. Using his ability, as well as his determination and skill as a doctor, he worked at the forefront of the eradication of GUILT, and continues to work on the behalf of Caduceus International.
+Dr. Derek Stiles (Japanese: 月森孝介, *Tsukimori Kōsuke*) is the protagonist of [Trauma Center: Under the Knife](../../utk/utk.md), [Trauma Center: Second Opinion](../so.md), and [Trauma Center: Under the Knife 2](../../utk2/utk2.md). He is a genius, world-renowned surgeon, though can be rather bumbling at times. He is gifted with the [Healing Touch](../../general/ht.md), specifically being able to slow down time through superhuman concentration. Using his ability, as well as his determination and skill as a doctor, he worked at the forefront of the eradication of GUILT, and continues to work on the behalf of Caduceus International.
 
 ## Table of Contents
 1. [Early Life](#Early_Life)
@@ -11,7 +11,7 @@ Dr. Derek Stiles is the protagonist of [Trauma Center: Under the Knife](../utk.m
 6. [References](#References)
 
 ## <a id="Early_Life"></a>Early Life
-Derek grew up in the Angeles Bay area, in a suburb called Northridge. He lost his father at a young age due to incurable disease, pushing him to become a doctor. Either shortly before or after this, he loses his family cat Tama to a car accident as well.
+Derek grew up in the Angeles Bay area, in a suburb called Northridge. He lost his father at a young age due to incurable disease, pushing him to become a doctor. Either shortly before or after this, he lost his family cat Tama to a car accident as well.
 
 In medical school, he became friends with Tyler Chase. He was described by Tyler as "[not] exactly an A student".<sup><a id="cite_ref_1.1"></a>[[1]](#cite_note-1)</sup>
 
@@ -32,6 +32,6 @@ Tyler initially thought Derek was "not adventurous enough" to join Caduceus, imp
 	* This difference is likely also the reason why he works for Caduceus Japan in Trauma Center: New Blood
 
 ## <a id="References"></a>References
-1.<a id="cite_note-1"></a> ↑ <sup>[1.1](#cite_ref_1.1) [1.2](#cite_ref_1.2)</sup> **Tyler:** I didn't think you were adventurous enough to join Caduceus! ... and, I mean, you weren't exactly an A student, man ...
+1. <a id="cite_note-1"></a> ↑ <sup>[1.1](#cite_ref_1.1) [1.2](#cite_ref_1.2)</sup> **Tyler:** I didn't think you were adventurous enough to join Caduceus! ... and, I mean, you weren't exactly an A student, man ...
 *Trauma Center: Second Opinion.* Atlus. Episode: *3-1 - New Beginnings* (in English). 2006. <br>
-2.<a id="cite_note-2"></a> ↑ <sup>[1.1](#cite_ref_2.1) [1.2](#cite_ref_2.2)</sup> Yip, Spencer (2006-11-20). ["Nintendo LA Wii Event: Chat with Atlus"](https://www.siliconera.com/nintendo-la-wii-event-chat-with-atlus/). *Siliconera.* Retrieved 2023-05-13.
+2. <a id="cite_note-2"></a> ↑ <sup>[1.1](#cite_ref_2.1) [1.2](#cite_ref_2.2)</sup> Yip, Spencer (2006-11-20). ["Nintendo LA Wii Event: Chat with Atlus"](https://www.siliconera.com/nintendo-la-wii-event-chat-with-atlus/). *Siliconera.* Retrieved 2023-05-13.

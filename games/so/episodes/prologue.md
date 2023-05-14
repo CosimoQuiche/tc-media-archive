@@ -1,10 +1,10 @@
 # Prologue (Second Opinion and Under the Knife)
 
-Prologue (Japanese: プロローグ, *Prologue*) is the first, unnumbered episode of both [Second Opinion](../so.md) and [Under the Knife](../utk.md). It is a story episode. In Second Opinion, no chapter number appears on the [Episode Select Screen](../game/episode_select.md). The episode is told from the perspective of a unknown narrator.
+Prologue (Japanese: プロローグ, *Prologue*) is the first, unnumbered episode of both [Second Opinion](../so.md) and [Under the Knife](../../utk/utk.md). It is a story episode. In Second Opinion, no chapter number appears on the [Episode Select Screen](../game/episode_select.md). The episode is told from the perspective of an unknown narrator.
 
 ## Summary
 
-The episode begins with an establishing shot of [Angeles Bay](../locations/angeles_bay.md) and [Hope Hospital](../locations/hope_hospital.md). It then introduces [a doctor](../character/derek.md) in need of some guidance, but who will "soon come to realize his full potiential".
+The episode begins with an establishing shot of [Angeles Bay](../locations/angeles_bay.md) and [Hope Hospital](../locations/hope_hospital.md). It then introduces [a doctor](../characters/derek.md) in need of some guidance, but who will "soon come to realize his full potential".
 
 ## Differences
 
