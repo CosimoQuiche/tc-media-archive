@@ -12,6 +12,7 @@ Navigation for all episodes within [Trauma Center: Second Opinion](../so.md).
 * [1-6: A Real Doctor](1_6.md)
 * [1-7: Downpour](1_7.md)
 * [1-8: Life or Death](1_8.md)
+
 ## [Chapter 2: The Healing Touch](chapter_2.md)
 * [2-1: Dormant Ability](2_1.md)
 * [2-2: Master Surgery](2_2.md)
@@ -24,6 +25,7 @@ Navigation for all episodes within [Trauma Center: Second Opinion](../so.md).
 * [2-9: Please Let Me Live](2_9.md)
 * [2-10: Caduceus](2_10.md)
 * [2-11: For the Greater Good](2_11.md)
+
 ## [Chapter 3: Caduceus](chapter_3.md)
 * [3-1: New Beginnings](3_1.md)
 * [3-2: GUILT](3_2.md)
@@ -35,6 +37,7 @@ Navigation for all episodes within [Trauma Center: Second Opinion](../so.md).
 * [3-8: Caduceus on a Plane](3_8.md)
 * [3-9: Deserted Village](3_9.md)
 * [3-10: Pandora's Box](3_10.md)
+
 ## [Chapter 4: Bio Terror](chapter_4.md)
 * [4-1: Hope Under Attack](4_1.md)
 * [4-2: Race for the Cure](4_2.md)
@@ -47,6 +50,7 @@ Navigation for all episodes within [Trauma Center: Second Opinion](../so.md).
 * [4-9: Progress](4_9.md)
 * [4-10: Prolonged Struggle](4_10.md)
 * [4-11: Incurable Disease](4_11.md)
+
 ## [Chapter 5: It Never Ends](chapter_5.md)
 * [5-1: Caduceus in Action](5_1.md)
 * [5-2: Under the Knife](5_2.md)
@@ -57,12 +61,14 @@ Navigation for all episodes within [Trauma Center: Second Opinion](../so.md).
 * [5-7: Delphi](5_7.md)
 * [5-8: A Devil](5_8.md)
 * [5-9: Death Awaits All](5_9.md)
+
 ## [Chapter Z](chapter_Z.md)
 * [Z-1: From Overseas](Z_1.md)
 * [Z-2: Miracle](Z_2.md)
 * [Z-3: Pursuit](Z_3.md)
 * [Z-4: Transplant](Z_4.md)
 * [Z-5: Sayonara](Z_5.md)
+
 ## [Chapter 6: Dark Gospel](chapter_6.md)
 * [6-1: An Invitation](6_1.md)
 * [6-2: Caduceus Europe](6_2.md)
@@ -73,6 +79,7 @@ Navigation for all episodes within [Trauma Center: Second Opinion](../so.md).
 * [6-7: Fallen Heroes](6_7.md)
 * [6-8: Vulnerability](6_8.md)
 * [Epilogue](epilogue.md)
+
 ## [Chapter X](chapter_X.md)
 * [X-1: Kyriaki](X_1.md)
 * [X-2: Deftera](X_2.md)
