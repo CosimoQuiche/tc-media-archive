@@ -5,7 +5,7 @@ This wiki is community collected encyclopedia of everything related to the Traum
 
 ## About Trauma Center
 
-Trauma Center (Japanese: カドゥケウス *Caduceus*) is a video game series developed and published by Atlus and created by Katsura Hashino. Beginning in 2005 with the release of Trauma Center: Under the Knife, the series revolves around various groups of doctors, most notably [Dr. Derek Stiles](games/so/characters/derek.md), as they deal with various disease outbreaks. Trauma Center's gameplay utilizes both surgical gameplay simulation as well as visual novel storytelling. There are 5 games in total: 2 for the Nintendo DS and 3 for the Wii. 
+Trauma Center (Japanese: カドゥケウス, *Caduceus*) is a video game series developed and published by Atlus and created by Katsura Hashino. Beginning in 2005 with the release of Trauma Center: Under the Knife, the series revolves around various groups of doctors, most notably [Dr. Derek Stiles](games/so/characters/derek.md), as they deal with various disease outbreaks. Trauma Center's gameplay utilizes both surgical gameplay simulation as well as visual novel storytelling. There are 5 games in total: 2 for the Nintendo DS and 3 for the Wii. 
 
 ## Games
 
