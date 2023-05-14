@@ -1,6 +1,6 @@
 # Derek Stiles
 
-Dr. Derek Stiles is the protagonist of Trauma Center: Under the Knife, Trauma Center: Second Opinion, and Trauma Center: Under the Knife 2. He is a genius, world-renowed surgeon, though can be rather bumbling at times. He is gifted with the Healing Touch, speciffically being able to slow down time through superhuman concentration. Using his ability, as well as his determination and skill as a doctor, he worked at the forefront of the eradication of GUILT, and continues to work on the behalf of Caduceus International.
+Dr. Derek Stiles is the protagonist of [Trauma Center: Under the Knife](../tcutk.md), [Trauma Center: Second Opinion](../tcso.md), and [Trauma Center: Under the Knife 2](../../tcutk2). He is a genius, world-renowned surgeon, though can be rather bumbling at times. He is gifted with the Healing Touch, specifically being able to slow down time through superhuman concentration. Using his ability, as well as his determination and skill as a doctor, he worked at the forefront of the eradication of GUILT, and continues to work on the behalf of Caduceus International.
 
 ## Table of Contents
 1. [Early Life](#Early_Life)
@@ -21,15 +21,17 @@ In medical school, he became friends with Tyler Chase. He was described by Tyler
 
 ## <a id="Personality"></a>Personality
 
-Tyler initially thought Derek was "not adventurous enough" to join Caduceus, implying he has a more reserved temperment.<sup><a id="cite_ref_1.2"></a>[[1]](#cite_note-1)</sup>
+Tyler initially thought Derek was "not adventurous enough" to join Caduceus, implying he has a more reserved temperament.<sup><a id="cite_ref_1.2"></a>[[1]](#cite_note-1)</sup>
 
 ## <a id="Trivia"></a>Trivia
 
-* Derek's initals (DS) are a reference to the console he was released on, the Nintentdo DS.<sup><a id="cite_ref_2.1"></a>[[2]](#cite_note-2)</sup>
-* His last name is also a pun for "stylus".<sup><a id="cite_ref_2.2"></a>[[2]](#cite_note-2)</sup>
+* Derek's initials (DS) are a reference to the console he was released on, the Nintendo DS.<sup><a id="cite_ref_2.1"></a>[[2]](#cite_note-2)</sup>
+* His last name, Stiles, is also a pun for "stylus".<sup><a id="cite_ref_2.2"></a>[[2]](#cite_note-2)</sup>
 * The suburb where Derek grew up is never directly shown in game. However, several unnamed suburbs are visited in both Second Opinion/Under the Knife and Under the Knife 2, one of which could be where he grew up.
+* Due to localization differences between Japanese and North American UTK/SO, Derek works for Caduceus Japan throughout the entireity of the Japanese localization.
+	* This difference is likely also the reason why he works for Caduceus Japan in Trauma Center: New Blood
 
 ## <a id="References"></a>References
 <a id="cite_note-1">1. ↑ <sup>[1.1](#cite_ref_1.1) [1.2](#cite_ref_1.2)</sup> **Tyler:** I didn't think you were adventurous enough to join Caduceus! ... and, I mean, you weren't exactly an A student, man ...
-*Trauma Center: Second Opinion.* Atlus. Episode: *3-1: New Beginnings* (in English). 2006.
+*Trauma Center: Second Opinion.* Atlus. Episode: *3-1 - New Beginnings* (in English). 2006. <br>
 <a id="cite_note-2"></a>2. ↑ <sup>[1.1](#cite_ref_2.1) [1.2](#cite_ref_2.2)</sup> Yip, Spencer (2006-11-20). ["Nintendo LA Wii Event: Chat with Atlus"](https://www.siliconera.com/nintendo-la-wii-event-chat-with-atlus/). *Siliconera.* Retrieved 2023-05-13.

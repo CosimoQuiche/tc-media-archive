@@ -1,18 +1,18 @@
 ![Recurring Western logo for the series.](Trauma_center_logo.png)
 # Welcome to the Trauma Center Community Wiki!
 
-This wiki is community collected encylopedia of everything related to the Trauma Center series.	
+This wiki is community collected encyclopedia of everything related to the Trauma Center series.	
 
 ## About Trauma Center
 
-Trauma Center (Japanese: カドゥケウス *Caduceus*) is a video game series developed and published by Atlus and created by Katsura Hashino. Beginning in 2005 with the release of Trauma Center: Under the Knife, the series revolves around various groups of doctors, most notably [Dr. Derek Stiles](games/tcso/characters/derek.md), as they deal with various disease outbreaks. The series's gameplay utilized both surgical gameplay simulation as well as visual novel storytelling. There are 5 games in total: 2 for the Nintendo DS and 3 for the Wii. 
+Trauma Center (Japanese: カドゥケウス *Caduceus*) is a video game series developed and published by Atlus and created by Katsura Hashino. Beginning in 2005 with the release of Trauma Center: Under the Knife, the series revolves around various groups of doctors, most notably [Dr. Derek Stiles](games/so/characters/derek.md), as they deal with various disease outbreaks. Trauma Center's gameplay utilizes both surgical gameplay simulation as well as visual novel storytelling. There are 5 games in total: 2 for the Nintendo DS and 3 for the Wii. 
 
 ## Games
 
-* [Trauma Center: Under the Knife](games/tcutk/tcutk.md)
-* [Trauma Center: Second Opinion](games/tcso/tsco.md)
-* [Trauma Center: New Blood](games/tcnb/tcnb.md)
-* [Trauma Center: Under the Knife 2](games/tcutk2/tcutk2.md)
+* [Trauma Center: Under the Knife](games/utk/utk.md)
+* [Trauma Center: Second Opinion](games/so/so.md)
+* [Trauma Center: New Blood](games/nb/nb.md)
+* [Trauma Center: Under the Knife 2](games/utk2/utk2.md)
 * [Trauma Team](games/tt/tt.md)
 
 ## Main Categories
@@ -26,7 +26,7 @@ Trauma Center (Japanese: カドゥケウス *Caduceus*) is a video game series d
 
 * Soundtracks and Discography
 * Guide Books
-* Mercendice
+* Merchandise
 
 ## Crossover Media
 
