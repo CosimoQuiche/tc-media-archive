@@ -22,7 +22,7 @@ All 5 text boxes are different between the English versions of Under the Knife a
 
 ## Other Languages (SO)
 
-<details>
+<details markdown="1">
 
 <summary>Language Chart</summary>
 
