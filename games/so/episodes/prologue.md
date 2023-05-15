@@ -1,6 +1,6 @@
 # Prologue (Second Opinion and Under the Knife)
 
-Prologue (Japanese: プロローグ, *Prologue*) is the first, unnumbered episode of both [Second Opinion](../so.md) and [Under the Knife](../../utk/utk.md). It is a story episode. In Second Opinion, no chapter number appears on the [Episode Select Screen](../game/episode_select.md). The episode is told from the perspective of an unknown narrator.
+**Prologue** (Japanese: プロローグ, *Prologue*) is the first, unnumbered episode of both [Second Opinion](../so.md) and [Under the Knife](../../utk/utk.md). It is a story episode. In Second Opinion, no chapter number appears on the [Episode Select Screen](../game/episode_select.md). The episode is told from the perspective of an unknown narrator.
 
 ## Summary
 
