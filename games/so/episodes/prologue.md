@@ -2,6 +2,7 @@
 
 **Prologue** (Japanese: プロローグ, *Prologue*) is the first, unnumbered episode of both [Second Opinion](../so.md) and [Under the Knife](../../utk/utk.md). It is a story episode. In Second Opinion, no chapter number appears on the [Episode Select Screen](../game/episode_select.md). The episode is told from the perspective of an unknown narrator.
 
+<!-- Title: Prologue | Jpn Title: プロローグ | Fr Title: Prologue | Sp Title: Prólogo | De Title: Prolog | It Title: Prologo | Prev. Episode: None | Next. Episode: [Standard Procedure](1_1.md) | other empty categories: Chapter, Patient details, Episode Number, Operation -->
 ## Summary
 
 The episode begins with an establishing shot of [Angeles Bay](../locations/angeles_bay.md) and [Hope Hospital](../locations/hope_hospital.md). It then introduces [a doctor](../characters/derek.md) in need of some guidance, but who will "soon come to realize his full potential".
@@ -41,3 +42,6 @@ All 5 text boxes are different between the English versions of Under the Knife a
 ## Trivia
 
 * This episode is still classified under [Chapter 1](chapter_1.md) within Second Opinion's files, despite not being shown in game as a part of any chapter. This makes Chapter 1 have 9 episodes in the game's files.
+
+## External Links
+
