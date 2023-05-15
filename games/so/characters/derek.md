@@ -26,7 +26,7 @@ Tyler initially thought Derek was "not adventurous enough" to join Caduceus, imp
 ## <a id="Trivia"></a>Trivia
 
 * Derek's initials (DS) are a reference to the console he was released on, the Nintendo DS.[^2]
-* His last name, Stiles, is also a pun for "stylus".<sup><a id="cite_ref_2.2"></a>[[2]](#cite_note-2)</sup>
+* His last name, Stiles, is also a pun for "stylus".[^2]
 * The suburb where Derek grew up is never directly shown in game. However, several unnamed suburbs are visited in both Second Opinion/Under the Knife and Under the Knife 2, one of which could be where he grew up.
 * Due to localization differences between Japanese and North American UTK/SO, Derek works for Caduceus Japan throughout the entireity of the Japanese localization.
 	* This difference is likely also the reason why he works for Caduceus Japan in Trauma Center: New Blood
@@ -36,5 +36,5 @@ Tyler initially thought Derek was "not adventurous enough" to join Caduceus, imp
 
 ## <a id="References"></a>References
 [^1]: **Tyler:** I didn't think you were adventurous enough to join Caduceus! ... and, I mean, you weren't exactly an A student, man ... 
-*Trauma Center: Second Opinion.* Atlus. Episode: *3-1 - New Beginnings* (in English). 2006. <br>
+*Trauma Center: Second Opinion.* Atlus. Episode: *3-1 - New Beginnings* (in English). 2006.
 [^2]: Yip, Spencer (2006-11-20). ["Nintendo LA Wii Event: Chat with Atlus"](https://www.siliconera.com/nintendo-la-wii-event-chat-with-atlus/). *Siliconera.* Retrieved 2023-05-13.
