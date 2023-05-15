@@ -35,6 +35,5 @@ Tyler initially thought Derek was "not adventurous enough" to join Caduceus, imp
 * It is unknown how Gabe knows Derek personally. One possibility is that they know each other through their mutual friend, Naomi Kimishima.
 
 ## <a id="References"></a>References
-[^1]: **Tyler:** I didn't think you were adventurous enough to join Caduceus! ... and, I mean, you weren't exactly an A student, man ... 
-*Trauma Center: Second Opinion.* Atlus. Episode: *3-1 - New Beginnings* (in English). 2006.
+[^1]: **Tyler:** I didn't think you were adventurous enough to join Caduceus! ... and, I mean, you weren't exactly an A student, man ... <br> *Trauma Center: Second Opinion.* Atlus. Episode: *3-1 - New Beginnings* (in English). 2006.
 [^2]: Yip, Spencer (2006-11-20). ["Nintendo LA Wii Event: Chat with Atlus"](https://www.siliconera.com/nintendo-la-wii-event-chat-with-atlus/). *Siliconera.* Retrieved 2023-05-13.
