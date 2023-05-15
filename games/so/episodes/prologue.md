@@ -22,12 +22,15 @@ All 5 text boxes are different between the English versions of Under the Knife a
 
 ## Other Languages (SO)
 
-<details><summary>Language Chart</summary>
+<details>
+
+<summary>Language Chart</summary>
+
 
 | Japanese | French | Spanish | German | Italian |
 | --- | --- | --- | --- | --- |
 | プロローグ | Prologue | Prólogo | Prolog | Prologo |
-|首都圏近郊、 Ｔ県千羽市に居を構える北崎病院。 | Voici l'Hôpital Hope, situé au cœur d'Angeles Bay. | Este es el Hospital Esperanza, situado en la ciudad de Bahía Ángeles. | Willkommen im Hope-Klinikum, gelegen im Zentrum von Angeles Bay.| Questo è l'Hope Hospital, situato nelle vicinanze della città di Angeles Bay. |
+|首都圏近郊、 Ｔ県千羽市に居を構える北崎病院。 | Voici l'Hôpital Hope, situé au cœur d'Angeles Bay. | Este es el Hospital Esperanza, situado en la ciudad de Bahía Ángeles. | Willkommen im Hope-Klinikum, gelegen im Zentrum von Angeles Bay. | Questo è l'Hope Hospital, situato nelle vicinanze della città di Angeles Bay. |
 | 地域に溶けこんだ診療で 人々から頼りにされている病院である。 | Depuis le jour de sa création, Hope a servi la communauté sans relâche. | Desde su fundación, el Esperanza ha sido un hospital de referencia de la ciudad. | Seit seiner Gründung stellt sich dieses Institut vorbehaltlos in den Dienst der Allgemeinheit. | Fin dalla sua fondazione, l'ospedale ha svolto un ruolo fondamentale per la comunità. |
 | ここに、まだ先輩医師の指導を受ける １人の若い医者がいた。 | Parmi ses nouveaux médecins, il y en a un qui a désespérément besoin d'expérience. | En él trabaja un joven doctor que aún tiene mucho que aprender. | Einer unserer jungen Ärzte benötigt allerdings noch ein wenig Orientierungshilfe. |  Qui un giovane dottore sta cominciando a costruire le basi per il suo futuro di medico. |
 | 彼は医療技術を磨きながら、 人々を助ける多忙な毎日を送っている。 | Il veut à tout prix acquérir de la pratique pour être en mesure d'aider les gens. | Pero su deseo de ayudar a los demás le motiva para mejorar día a día. | Doch er arbeitet ernsthaft und fleißig, mit dem ehrlichen Wunsch, Menschen zu helfen. |  Spinto dal desiderio di aiutare il prossimo, lavora sodo per migliorare se stesso. |
