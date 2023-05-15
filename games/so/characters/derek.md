@@ -30,6 +30,9 @@ Tyler initially thought Derek was "not adventurous enough" to join Caduceus, imp
 * The suburb where Derek grew up is never directly shown in game. However, several unnamed suburbs are visited in both Second Opinion/Under the Knife and Under the Knife 2, one of which could be where he grew up.
 * Due to localization differences between Japanese and North American UTK/SO, Derek works for Caduceus Japan throughout the entireity of the Japanese localization.
 	* This difference is likely also the reason why he works for Caduceus Japan in Trauma Center: New Blood
+* Derek is the only character to fully appear in all 5 games in the series.
+	* Angie also appears in some capacity in all games, but only appears in a hard to see photo in Derek's Office in Trauma Team.
+* It is unknown how Gabe knows Derek personally. One possibility is that they know each other through their mutual friend, Naomi Kimishima.
 
 ## <a id="References"></a>References
 1. <a id="cite_note-1"></a> ↑ <sup>[1.1](#cite_ref_1.1) [1.2](#cite_ref_1.2)</sup> **Tyler:** I didn't think you were adventurous enough to join Caduceus! ... and, I mean, you weren't exactly an A student, man ...

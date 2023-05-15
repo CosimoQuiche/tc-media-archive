@@ -22,6 +22,8 @@ All 5 text boxes are different between the English versions of Under the Knife a
 
 ## Other Languages (SO)
 
+<details><summary>Language Chart</summary>
+
 | Japanese | French | Spanish | German | Italian |
 | --- | --- | --- | --- | --- |
 | プロローグ | Prologue | Prólogo | Prolog | Prologo |
@@ -30,6 +32,8 @@ All 5 text boxes are different between the English versions of Under the Knife a
 | ここに、まだ先輩医師の指導を受ける １人の若い医者がいた。 | Parmi ses nouveaux médecins, il y en a un qui a désespérément besoin d'expérience. | En él trabaja un joven doctor que aún tiene mucho que aprender. | Einer unserer jungen Ärzte benötigt allerdings noch ein wenig Orientierungshilfe. |  Qui un giovane dottore sta cominciando a costruire le basi per il suo futuro di medico. |
 | 彼は医療技術を磨きながら、 人々を助ける多忙な毎日を送っている。 | Il veut à tout prix acquérir de la pratique pour être en mesure d'aider les gens. | Pero su deseo de ayudar a los demás le motiva para mejorar día a día. | Doch er arbeitet ernsthaft und fleißig, mit dem ehrlichen Wunsch, Menschen zu helfen. |  Spinto dal desiderio di aiutare il prossimo, lavora sodo per migliorare se stesso. |
 | だが、その真の才能は 未だ眠ったままであった……。 | Le docteur Derek Stiles va atteindre cet objectif plus vite qu'il ne le croit... | Es el Dr. Derek Stiles, que está a punto de descubrir su auténtico potencial... | Schon bald wird Dr. Derek Stiles sein wahres Potenzial erkennen... | Il dott. Derek Stiles si renderà presto conto delle sue grandi doti mediche. |
+
+</details>
 
 ## Trivia
 

@@ -11,7 +11,8 @@ Players once again play as [Dr. Derek Stiles](characters/derek.md), as well as a
 4. [Development](#Development)
 5. [Reception](#Reception)
 6. [Gallery](#Gallery)
-7. [References](#References)
+7. [See Also](#See_Also)
+8. [References](#References)
 
 ## <a id="Plot"></a>Plot
 *See Also: [Episode List for Trauma Center: Second Opinion](episodes/episode_list.md)*
@@ -25,6 +26,8 @@ Players once again play as [Dr. Derek Stiles](characters/derek.md), as well as a
 ## <a id="Reception"></a>Reception
 
 ## <a id="Gallery"></a>Gallery
+
+## <a id="See Also"></a>See Also
 
 ## <a id="References"></a>References
 
