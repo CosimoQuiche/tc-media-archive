@@ -1,6 +1,6 @@
 # Derek Stiles
 
-Dr. **Derek Stiles** (Japanese: 月森孝介, *Tsukimori Kōsuke*) is the protagonist of [Trauma Center: Under the Knife](../../utk/UTK.md), [Trauma Center: Second Opinion](../SO.md), and [Trauma Center: Under the Knife 2](../../utk2/UTK2.md). He is a genius, world-renowned surgeon, though can be rather bumbling at times. He is gifted with the [Healing Touch](../../general/Healing_Touch.md), specifically being able to slow down time through superhuman concentration. Using his ability, as well as his determination and skill as a doctor, he worked at the forefront of the eradication of [GUILT](../../general/diseases/GUILT.md), and continues to work on the behalf of [Caduceus International](../../general/organizations/Caduceus_International.md).
+Dr. **Derek Stiles** (Japanese: 月森孝介, *Tsukimori Kōsuke*) is the protagonist of [Trauma Center: Under the Knife](../../utk/UTK.md), [Trauma Center: Second Opinion](../SO.md), and [Trauma Center: Under the Knife 2](../../utk2/UTK2.md). He is a genius, world-renowned surgeon, though can be rather bumbling at times. He is gifted with the [Healing Touch](../../general/Healing_Touch.md), specifically being able to slow down time through superhuman concentration. Using his ability, as well as his determination and skill as a doctor, he worked at the forefront of the eradication of [GUILT](../../diseases/GUILT.md), and continues to work on the behalf of [Caduceus International](../../organizations/Caduceus_International.md).
 
 ## Table of Contents
 1. [Early Life](#Early_Life)
