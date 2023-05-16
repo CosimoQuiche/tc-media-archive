@@ -1,8 +1,8 @@
 # Trauma Center: Second Opinion
 
-**Trauma Center: Second Opinion** (Japanese: カドゥケウスZ 2つの超執刀, *Caduceus Z: 2 Super Swords*) is the second release in the [Trauma Center](../general/tc.md) series, being a Wii remake of the first title, [Trauma Center: Under the Knife](../utk/utk.md). The game was released in 2006 as a launch title for the Nintendo Wii in both Japan and North America, making full use of the Wiimote and Nunchuck. It was later released in other region in 2007. The game was a commercial success, selling 400,000 copies in Europe and North America by October 2008.<sup><a id="cite_ref_1"></a>[[1]](#cite_note-1)</sup> <br>
+**Trauma Center: Second Opinion** (Japanese: カドゥケウスZ 2つの超執刀, *Caduceus Z: 2 Healing Touches* lit. *Caduceus Z: 2 Super Swords*) is the second release in the [Trauma Center](../general/Trauma_Center.md) series, being a Wii remake of the first title, [Trauma Center: Under the Knife](../utk/UTK.md). The game was released in 2006 as a launch title for the Nintendo Wii in both Japan and North America, making full use of the Wiimote and Nunchuck. It was later released in other regions in 2007. The game was a commercial success, selling 400,000 copies in Europe and North America by October 2008.<sup><a id="cite_ref_1"></a>[[1]](#cite_note-1)</sup> <br>
 
-Players once again play as [Dr. Derek Stiles](characters/derek.md), as well as a new doctor, [Dr. Nozomi Weaver](characters/naomi.md). Dr. Weaver also possesses the ability to utilize  the mysterious [Healing Touch](../general/ht.md), albeit in a different manner to Derek. The game features two new chapters, [Chapter Z](episodes/chapter_Z.md) and a new, revamped [Chapter 6](episodes/chapter_6.md). 
+Players once again play as [Dr. Derek Stiles](characters/Derek_Stiles.md), as well as a new doctor, [Dr. Nozomi Weaver](characters/Naomi_Kimishima.md). Dr. Weaver also possesses the ability to utilize  the mysterious [Healing Touch](../general/Healing_Touch.md), albeit in a different manner to Derek. The game features two new chapters, [Chapter Z](episodes/Chapter_Z.md) and a new, revamped [Chapter 6](episodes/Chapter_6.md). 
 
 ## Table of Contents
 1. [Plot](#Plot)
@@ -15,7 +15,7 @@ Players once again play as [Dr. Derek Stiles](characters/derek.md), as well as a
 8. [References](#References)
 
 ## <a id="Plot"></a>Plot
-*See Also: [Episode List for Trauma Center: Second Opinion](episodes/episode_list.md)*
+*See Also: [Episode List for Trauma Center: Second Opinion](episodes/Episode_List.md)*
 
 ## <a id="Gameplay"></a>Gameplay
 
@@ -28,6 +28,7 @@ Players once again play as [Dr. Derek Stiles](characters/derek.md), as well as a
 ## <a id="Gallery"></a>Gallery
 
 ## <a id="See Also"></a>See Also
+- Bugs in Second Opinion
 
 ## <a id="References"></a>References
 
