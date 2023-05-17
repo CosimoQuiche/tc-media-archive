@@ -2,7 +2,7 @@
 
 **Trauma Center: Second Opinion** (Japanese: カドゥケウスZ 2つの超執刀, *Caduceus Z: 2 Healing Touches* lit. *Caduceus Z: 2 Super Swords*) is the second release in the [Trauma Center](../general/Trauma_Center.md) series, being a Wii remake of the first title, [Trauma Center: Under the Knife](../utk/UTK.md). The game was released in 2006 as a launch title for the Nintendo Wii in both Japan and North America, making full use of the Wiimote and Nunchuck. It was later released in other regions in 2007. The game was a commercial success, selling 400,000 copies in Europe and North America by October 2008.<sup><a id="cite_ref_1"></a>[[1]](#cite_note-1)</sup> <br>
 
-Players once again play as [Dr. Derek Stiles](characters/Derek_Stiles.md), as well as a new doctor, [Dr. Nozomi Weaver](characters/Naomi_Kimishima.md). Dr. Weaver also possesses the ability to utilize  the mysterious [Healing Touch](../general/Healing_Touch.md), albeit in a different manner to Derek. The game features two new chapters, [Chapter Z](episodes/Chapter_Z.md) and a new, revamped [Chapter 6](episodes/Chapter_6.md). 
+Players once again play as [Dr. Derek Stiles](characters/Derek_Stiles.md), as well as a new doctor, [Dr. Nozomi Weaver](characters/Naomi_Kimishima.md) in the fight against [GUILT](../../diseases/GUILT.md). Dr. Weaver also possesses the ability to utilize  the mysterious [Healing Touch](../general/Healing_Touch.md), albeit in a different manner to Derek. The game features two new chapters, [Chapter Z](episodes/Chapter_Z.md) and a new, revamped [Chapter 6](episodes/Chapter_6.md). 
 
 ## Table of Contents
 1. [Plot](#Plot)

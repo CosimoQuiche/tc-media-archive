@@ -1,6 +1,6 @@
 # Derek Stiles
 
-Dr. **Derek Stiles** (Japanese: 月森孝介, *Tsukimori Kōsuke*) is the protagonist of [Trauma Center: Under the Knife](../../utk/UTK.md), [Trauma Center: Second Opinion](../SO.md), and [Trauma Center: Under the Knife 2](../../utk2/UTK2.md). He is a genius, world-renowned surgeon, though can be rather bumbling at times. He is gifted with the [Healing Touch](../../general/Healing_Touch.md), specifically being able to slow down time through superhuman concentration. Using his ability, as well as his determination and skill as a doctor, he worked at the forefront of the eradication of [GUILT](../../diseases/GUILT.md), and continues to work on the behalf of [Caduceus International](../../organizations/Caduceus_International.md).
+Dr. **Derek Stiles** (Japanese: 月森孝介, *Tsukimori Kōsuke*) is the protagonist of [Trauma Center: Under the Knife](../../utk/UTK.md), [Trauma Center: Second Opinion](../SO.md), and [Trauma Center: Under the Knife 2](../../utk2/UTK2.md). He is a genius, world-renowned surgeon, though can be rather bumbling at times. He is gifted with the [Healing Touch](../../../general/Healing_Touch.md), specifically being able to slow down time through superhuman concentration. Using his ability, as well as his determination and skill as a doctor, he worked at the forefront of the eradication of [GUILT](../../../diseases/GUILT.md), and continues to work on the behalf of [Caduceus International](../../../organizations/Caduceus_International.md).
 
 ## Table of Contents
 1. [Early Life](#Early_Life)
@@ -38,3 +38,7 @@ Tyler initially thought Derek was "not adventurous enough" to join Caduceus, imp
 1. <a id="cite_note-1"></a> ↑ <sup>[1.1](#cite_ref_1.1) [1.2](#cite_ref_1.2)</sup> **Tyler:** I didn't think you were adventurous enough to join Caduceus! ... and, I mean, you weren't exactly an A student, man ...
 *Trauma Center: Second Opinion.* Atlus. Episode: *3-1 - New Beginnings* (in English). 2006. <br>
 2. <a id="cite_note-2"></a> ↑ <sup>[2.1](#cite_ref_2.1) [2.2](#cite_ref_2.2)</sup> Yip, Spencer (2006-11-20). ["Nintendo LA Wii Event: Chat with Atlus"](https://www.siliconera.com/nintendo-la-wii-event-chat-with-atlus/). *Siliconera.* Retrieved 2023-05-13.
+
+---
+
+[Back to Main Page](/../index.md)
