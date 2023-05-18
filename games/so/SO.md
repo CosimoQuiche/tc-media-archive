@@ -33,3 +33,7 @@ Players once again play as [Dr. Derek Stiles](characters/Derek_Stiles.md), as we
 ## <a id="References"></a>References
 
 1. <a id="cite_note-1"></a> [↑](#cite_ref_1.1) [2008年8月期 決算説明会](https://web.archive.org/web/20130902235559/http://www.index-hd.com/a_admin/japanese/pdf/20081104162599.pdf) (PDF). *Index Corporation* (in Japanese). 2008-10-31. Archived from [the original](http://www.index-hd.com/a_admin/japanese/pdf/20081104162599.pdf) (PDF) on 2013-09-02. Retrieved 2023-05-14.
+
+---
+
+[Back to Main Page](/tc-wiki)

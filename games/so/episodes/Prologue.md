@@ -45,3 +45,7 @@ All 5 text boxes are different between the English versions of Under the Knife a
 
 ## External Links
 
+---
+
+[Back to Main Page](/tc-wiki) | [Back to Second Opinion Episode List](Episode_List.md) | 
+<!-- move the episode lists to a future info box --->

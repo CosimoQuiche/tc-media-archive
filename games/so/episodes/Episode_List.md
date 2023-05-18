@@ -91,4 +91,4 @@ Navigation for all episodes within [Trauma Center: Second Opinion](../SO.md).
 
 ---
 
-[Back to Main Page](../../../index.md)
+[Back to Main Page](/tc-wiki)
