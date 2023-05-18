@@ -41,4 +41,4 @@ Tyler initially thought Derek was "not adventurous enough" to join Caduceus, imp
 
 ---
 
-[Back to Main Page](../../../index.md)
+[Back to Main Page](/../main/index.md)

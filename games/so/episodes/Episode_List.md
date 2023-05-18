@@ -88,3 +88,7 @@ Navigation for all episodes within [Trauma Center: Second Opinion](../SO.md).
 * [X-5: Pempti](X_5.md)
 * [X-6: Paraskevi](X_6.md)
 * [X-7: Savato](X_7.md)
+
+---
+
+[Back to Main Page](../../../index.md)
