@@ -46,3 +46,7 @@ Although it is discussed in game, it is unknown if Dr. Montgomery had a time alt
 	* The second is mostly speculation revolving Erhard's glowing hands before Naomi's operation in Twisted Rosalia. Some fan speculate he may have the healing touch due to this cutscene.
 * It is unknown if the Healing Touch can manifest in other ways outside of surgery. Adel Tulba attempts to use it to injure Derek Stiles before his operation near the end of Under the Knife 2, meaning it is possible to use outside of surgery.
 * As Valerie's Healing Touch essentially freezes the patient's condition, it could theoretically be detrimental to the patient if used during Cardiac Arrest, or another near death state.
+
+---
+
+[Back to Main Page](/tc-wiki)
