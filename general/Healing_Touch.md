@@ -105,7 +105,7 @@ Valerie's Healing Touch is almost always a good idea to pop when the vitals are 
 1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Greg](../games/so/characters/Greg_Kasal.md):** I'd advise you to use [the Healing Touch] only when absolutely necessary... After all, you shouldn't be relying solely on the Healing Touch, anyway. Developing your natural skills as a surgeon is far more important. ...We can't assume the Healing Touch was the only reason Kovac survived. If you want to help people, then focus on strengthening your natural abilities. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-5 - Paying the Price](../games/so/episodes/2_5.md)* (in English). 2006. <br>
 2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** I'll have to try it the way Derek does... <br>
-**...*** <br>
+**...** <br>
 **Naomi:**I must have done it well enough, cause it worked. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[X-7: Savato (Naomi)](../games/so/episodes/X_7.md)* (in English). 2006. <br>
 3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** That was amazing... I had no idea someone with the hands of a god would be working here, too. <br>
