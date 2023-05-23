@@ -1,4 +1,4 @@
-# The Healing Touch
+# Healing Touch
 
 The **Healing Touch** (Japanese: 超執刀, *Super Sword* lit. *Super Surgery*) is a superhuman ability possessed by select doctors in the [Trauma Center Universe](Trauma_Center_Universe.md). It allows for the user to preform supernatural feats during surgery, at the expense of great physical strain. This allows doctors and surgeons the ability to treat people within an inch of death, or otherwise deemed 'incurable'. The Healing Touch manifests differently depending on the doctor. It can also notably be a great mental burden on doctors who have such an ability, as shown by [Dr. Hoffman](../games/so/characters/Robert_Hoffman.md), and later, [Derek Stiles](../games/so/characters/Derek_Stiles.md). It is also noted by [Greg Kasal](../games/so/characters/Greg_Kasal.md) that the Healing Touch cannot be a replacement for skill and practice.<sup><a id="cite_ref_1"></a>[[1]](#cite_note-1)</sup>
 
@@ -6,9 +6,9 @@ The **Healing Touch** (Japanese: 超執刀, *Super Sword* lit. *Super Surgery*) 
 1. [Origin](#Origin)
 2. [Gameplay Function](#Gameplay_Function)
 3. [Types of Healing Touch](#Types_of_Healing_Touch)
-	3.1. [Slowing Time](#Slowing_Time)
-	3.2. [Improving Vitals](#Improving_Vitals)
-	3.3. [Other](#Other)
+    1. [Slowing Time](#Slowing_Time)
+    2. [Improving Vitals](#Improving_Vitals)
+    3. [Other](#Other)
 4. [Strategy](#Strategy)
 5. [Trivia](#Trivia)
 6. [Gallery](#Gallery)
@@ -66,6 +66,7 @@ Naomi Kimishima's Healing Touch allows the player to boost the vitals through we
 
 </details>
 
+
 Valerie Blaylock's Healing Touch locks the patient's vitals at their current value, essentially making the patient unable to improve or worsen. This means the [Antibiotic Gel](tools/Antibiotic_Gel.md) and [Stabilizer](tools/Syringe.md) will have no effect during the duration of her Healing Touch. The only way to influence the vitals during this period is for the patient to enter [Cardiac Arrest](../diseases/general/Cardiac_Arrest.md), or to switch patients. At the end of her Healing Touch, vitals will increase by 10.
 
 ### <a id="Other"></a>Other
@@ -76,7 +77,7 @@ Although it is discussed in game, it is unknown if [Dr. Montgomery](../games/nb/
 
 In general, it is advised to use the Healing Touch when the patient is close to death, or you're having trouble with tight cycles for operations involving [aneurysms](../diseases/general/Aneurysm.md) or [burns](../diseases/general/Burn.md). Additionally, the Healing Touch is particularly useful for dealing with [Triti](../diseases/GUILT/Triti.md), though it will likely result in a poor score. There are some notable exceptions where you should not use HT, particularly during [Ventricular Fibrillation](../diseases/general/Ventricular_Fibrillation.md) and [Cardiac Arrest](../diseases/general/Cardiac_Arrest.md) and during [Savato](../diseases/GUILT/Savato.md) operations. Healing Touch will not affect [XS ranks](mechanics/ranks.md) for most operations in the series, except for several ops in Under the Knife (for S Rank), [X Ops](mechanics/X_Ops.md), and Triti Ops, so it is also a viable strategy to use Healing Touch to help improve score.
 
-With Naomi's Healing Touch, it is advisable to use it as a replacement for using Stabilizer, provided you can get consistent Cools or can laser multiple [Small Tumors] for multiple OKs. This allows you to focus more on completing the operation. Naomi's HT is particularly useful for [Kyriaki](../diseases/GUILT/Kyriaki.md) and [Paraskevi](../diseases/GUILT/Paraskevi.md).
+With Naomi's Healing Touch, it is advisable to use it as a replacement for using Stabilizer, provided you can get consistent Cools or can laser multiple [Small Tumors](../diseases/general/Small_Tumor.md) for multiple OKs. This allows you to focus more on completing the operation. Naomi's HT is particularly useful for [Kyriaki](../diseases/GUILT/Kyriaki.md) and [Paraskevi](../diseases/GUILT/Paraskevi.md).
 
 Valerie's Healing Touch is almost always a good idea to pop when the vitals are plummeting, or something that will cause a potentially fatal drop in vitals is about to occur (i.e. [Cardia's](../diseases/Stigma/Cardia.md) Last Stand). This is particularly useful in ops with touchy vitals, or when you consistently cannot maintain the patient's vitals in a particular op. Valerie's HT is particularly useful for [Ops](../diseases/Stigma/Ops.md).
 
@@ -101,19 +102,19 @@ Valerie's Healing Touch is almost always a good idea to pop when the vitals are 
 
 ## <a id="References"></a>References
 
-1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Greg](../games/so/characters/Greg_Kasal.md):** I'd advise you to use [the Healing Touch] only when absolutely necessary... After all, you shouldn't be relying solely on the Healing Touch, anyway. Developing your natural skills as a surgeon is far more important. ...We can't assume the Healing Touch was the only reason Kovac survived. If you want to help people, then focus on strengthening your natural abilities.
+1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Greg](../games/so/characters/Greg_Kasal.md):** I'd advise you to use [the Healing Touch] only when absolutely necessary... After all, you shouldn't be relying solely on the Healing Touch, anyway. Developing your natural skills as a surgeon is far more important. ...We can't assume the Healing Touch was the only reason Kovac survived. If you want to help people, then focus on strengthening your natural abilities. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-5 - Paying the Price](../games/so/episodes/2_5.md)* (in English). 2006. <br>
-2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** I'll have to try it the way Derek does... 
-**...***
-**Naomi:**I must have done it well enough, cause it worked.
+2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** I'll have to try it the way Derek does... <br>
+**...*** <br>
+**Naomi:**I must have done it well enough, cause it worked. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[X-7: Savato (Naomi)](../games/so/episodes/X_7.md)* (in English). 2006. <br>
-3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** That was amazing... I had no idea someone with the hands of a god would be working here, too.
-**[Tomoe](../games/tt/characters/Tomoe_Tachibana.md):** Hands of god...? What do you mean?
-**Naomi:** Hm... It seems that geniuses often lack self-awareness...
+3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** That was amazing... I had no idea someone with the hands of a god would be working here, too. <br>
+**[Tomoe](../games/tt/characters/Tomoe_Tachibana.md):** Hands of god...? What do you mean? <br>
+**Naomi:** Hm... It seems that geniuses often lack self-awareness... <br>
 *Trauma Team.* Atlus. Episode: *[Chloe's Change](../games/tt/episodes/PZ_6.md)* (in English). 2010. <br>
-4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **[Angie](../games/so/characters/Angie_Thompson.md):** Right at the last second... Was that the Healing Touch? It's incredible, but...at the same time, it's a little frightening.
+4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **[Angie](../games/so/characters/Angie_Thompson.md):** Right at the last second... Was that the Healing Touch? It's incredible, but...at the same time, it's a little frightening. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-4 - Awakening](../games/so/episodes/2_4.md)* (in English). 2006. <br>
-5. <a id="cite_note-5"></a> [↑](#cite_ref_5) **[Irene](../games/nb/characters/Irene_Quatro.md):** A Doctor with the Healing Touch... It's been a while since I've been surprised like this. If the opportunity arises, I'd like to see it used again.
+5. <a id="cite_note-5"></a> [↑](#cite_ref_5) **[Irene](../games/nb/characters/Irene_Quatro.md):** A Doctor with the Healing Touch... It's been a while since I've been surprised like this. If the opportunity arises, I'd like to see it used again. <br>
 *Trauma Center: New Blood.* Atlus. Episode: *[2-3 - Dependable Pair](../games/nb/episodes/2_3.md)* (in English). 2007. <br>
 
 ---
