@@ -36,7 +36,7 @@ Tyler initially thought Derek was "not adventurous enough" to join Caduceus, imp
 
 ## <a id="References"></a>References
 1. <a id="cite_note-1"></a> ↑ <sup>[1.1](#cite_ref_1.1) [1.2](#cite_ref_1.2)</sup> **Tyler:** I didn't think you were adventurous enough to join Caduceus! ... and, I mean, you weren't exactly an A student, man ...
-*Trauma Center: Second Opinion.* Atlus. Episode: *3-1 - New Beginnings* (in English). 2006. <br>
+*Trauma Center: Second Opinion.* Atlus. Episode: *[3-1 - New Beginnings](../episodes/3_1.md)* (in English). 2006. <br>
 2. <a id="cite_note-2"></a> ↑ <sup>[2.1](#cite_ref_2.1) [2.2](#cite_ref_2.2)</sup> Yip, Spencer (2006-11-20). ["Nintendo LA Wii Event: Chat with Atlus"](https://www.siliconera.com/nintendo-la-wii-event-chat-with-atlus/). *Siliconera.* Retrieved 2023-05-13.
 
 ---
