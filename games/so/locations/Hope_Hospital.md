@@ -1,0 +1,3 @@
+# Hope Hospital
+
+**Hope Hospital** is a hospital located in south-west [Angeles Bay](Angeles_Bay.md). Hope was originally headed by [Robert Hoffman](../characters/Robert_Hoffman.md) at the start of [Second Opinion](../SO.md), and later [Greg Kasal](../characters/Greg_Kasal.md) towards the end of Second Opinion and [Under the Knife 2](../../utk2/UTK2.md). It is most well known for being the first hospital that [Derek Stiles](../characters/Derek_Stiles.md) worked at after medical school.

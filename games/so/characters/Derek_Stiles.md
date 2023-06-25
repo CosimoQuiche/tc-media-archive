@@ -17,6 +17,11 @@ In medical school, he became friends with [Tyler Chase](Tyler_Chase.md). He was 
 
 ## <a id="Gameplay"></a>Gameplay
 
+<!-- > 
+— Derek's introduction in [1-1](../episodes/1_1.md) -->
+
+Derek starts the game as an inexperienced surgeon fresh out of medical school.
+
 ## <a id="Appearance"></a>Appearance 
 
 ## <a id="Personality"></a>Personality
