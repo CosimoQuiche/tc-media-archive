@@ -67,7 +67,7 @@ Naomi Kimishima's Healing Touch allows the player to boost the vitals through we
 </details>
 
 
-Valerie Blaylock's Healing Touch locks the patient's vitals at their current value, essentially making the patient unable to improve or worsen. This means the [Antibiotic Gel](tools/Antibiotic_Gel.md) and [Stabilizer](tools/Syringe.md) will have no effect during the duration of her Healing Touch. The only way to influence the vitals during this period is for the patient to enter [Cardiac Arrest](../diseases/general/Cardiac_Arrest.md), or to switch patients. At the end of her Healing Touch, vitals will increase by 10.
+Valerie Blaylock's Healing Touch locks the patient's vitals at their current value, essentially making the patient unable to improve or worsen. This means the [Antibiotic Gel](tools/Antibiotic_Gel.md) and [Stabilizer](tools/Syringe.md) will have no effect on the vitals during the duration of her Healing Touch. The only way to influence the vitals during this period is for the patient to enter [Cardiac Arrest](../diseases/general/Cardiac_Arrest.md), or to switch patients. At the end of her Healing Touch, vitals will increase by 10.
 
 ### <a id="Other"></a>Other
 
@@ -106,7 +106,7 @@ Valerie's Healing Touch is almost always a good idea to pop when the vitals are 
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-5 - Paying the Price](../games/so/episodes/2_5.md)* (in English). 2006. <br>
 2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** I'll have to try it the way Derek does... <br>
 **...** <br>
-**Naomi:**I must have done it well enough, cause it worked. <br>
+**Naomi:** I must have done it well enough, cause it worked. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[X-7: Savato (Naomi)](../games/so/episodes/X_7.md)* (in English). 2006. <br>
 3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** That was amazing... I had no idea someone with the hands of a god would be working here, too. <br>
 **[Tomoe](../games/tt/characters/Tomoe_Tachibana.md):** Hands of god...? What do you mean? <br>
@@ -114,7 +114,7 @@ Valerie's Healing Touch is almost always a good idea to pop when the vitals are 
 *Trauma Team.* Atlus. Episode: *[Chloe's Change](../games/tt/episodes/PZ_6.md)* (in English). 2010. <br>
 4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **[Angie](../games/so/characters/Angie_Thompson.md):** Right at the last second... Was that the Healing Touch? It's incredible, but...at the same time, it's a little frightening. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-4 - Awakening](../games/so/episodes/2_4.md)* (in English). 2006. <br>
-5. <a id="cite_note-5"></a> [↑](#cite_ref_5) **[Irene](../games/nb/characters/Irene_Quatro.md):** A Doctor with the Healing Touch... It's been a while since I've been surprised like this. If the opportunity arises, I'd like to see it used again. <br>
+5. <a id="cite_note-5"></a> [↑](#cite_ref_5) **[Irene](../games/nb/characters/Irene_Quatro.md):** A doctor with the Healing Touch... It's been a while since I've been surprised like this. If the opportunity arises, I'd like to see it used again. <br>
 *Trauma Center: New Blood.* Atlus. Episode: *[2-3 - Dependable Pair](../games/nb/episodes/2_3.md)* (in English). 2007. <br>
 
 ---
