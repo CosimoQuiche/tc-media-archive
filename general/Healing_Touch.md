@@ -83,13 +83,13 @@ Valerie's Healing Touch is almost always a good idea to pop when the vitals are 
 
 ## <a id="Trivia"></a>Trivia
 
-* It remains unknown if the Healing Touch is an innate ability, or if it can be learned.
+* It remains unknown if the Healing Touch is an innate ability, if it can be learned, or both.
 	* Dr. Montgomery has collected notes relating to his experience with the Healing Touch, which Valerie Blaylock studied while positioned in [Alaska](../games/nb/locations/Alaska.md), implying it could potientally be learned.
 * If the Healing Touch is passed down to the descendants of Asclepius, then it could mean that the parents or offspring of Healing Touch users could also potentially have the ability.
 * It is unknown why most doctors with the ability to use the Healing Touch tend to imagine a star to invoke it.
 * The only game where the Healing Touch isn't directly showcased is [Trauma Team](../games/tt/TT.md). However, it is referenced a few times.
 	* The first reference is located in the XS dialogue following [Chloe's Change](../games/tt/episodes/PZ_6.md), where Naomi muses that she didn't know a doctor "with the Hands of God" worked at [Resurgam](../games/tt/locations/Resurgam.md)<sup><a id="cite_ref_3"></a>[[3]](#cite_note-3)</sup>, in this case relating to [Tomoe Tachibana](../games/tt/characters/Tomoe_Tachibana.md).
-	* The second is mostly speculation revolving [Erhard's] glowing hands before Naomi's operation in [Twisted Rosalia](../games/tt/episodes/PZ_13.md). Some fan speculate he may have the Healing Touch due to this cutscene.
+	* The second is mostly speculation revolving [Erhard's] glowing hands before Naomi's operation in [Twisted Rosalia](../games/tt/episodes/PZ_13.md). Some fans speculate he may have the Healing Touch due to this cutscene.
 * Some operations in the series imply the player has used the Healing Touch, even if it is not required or forced to complete an operation. Examples include most notably [2-4](../games/so/episodes/2_4.md)<sup><a id="cite_ref_4"></a>[[4]](#cite_note-4)</sup> and [2-5](../games/so/episodes/2_5.md) in Second Opinion, as well as [2-3](../games/nb/episodes/2_3.md) in New Blood.<sup><a id="cite_ref_5"></a>[[5]](#cite_note-5)</sup>
 * It is unknown if the Healing Touch can manifest in other ways outside of surgery. Adel Tulba attempts to use it to injure Derek Stiles [before his operation](../games/utk2/episodes/7_4.md) near the end of Under the Knife 2, meaning it is possible to use outside of surgery.
 * Naomi Kimishima is the only doctor in the series shown to utilize [multiple types of Healing Touch](../games/so/episodes/X_7.md).
