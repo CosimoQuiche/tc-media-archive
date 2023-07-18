@@ -42,6 +42,7 @@ All 5 text boxes are different between the English versions of Under the Knife a
 ## Trivia
 
 * This episode is still classified under [Chapter 1](Chapter_1.md) within Second Opinion's files, despite not being shown in game as a part of any chapter. This makes Chapter 1 have 9 episodes in the game's files.
+* This is the only op in UTK that Derek does not appear in.
 
 ## External Links
 
