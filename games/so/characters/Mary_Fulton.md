@@ -13,4 +13,4 @@ Mary appears calm and well tempered throughout the games, and appears more colle
 
 ## <a id="Personality"></a>Personality
 
-Mary has a very likable personality, though she professes that she sometimes talked too much. She also enjoys teasing her colleagues during the games, revealing a more laid back aspect to her personality. She is, however, not afraid of taking charge of a situation, and demands only the best from her fellow doctors. Despite this, she offers unparalleled support in the operating theatre, as shown by her support of Derek Stiles during his [loss of faith in his skills](../../utk2/episodes/Chapter_4.md) as a surgeon.
+Mary has a very likable personality, though she professes that she sometimes talks too much. She also enjoys teasing her colleagues during the games, revealing a more laid back aspect to her personality. She is, however, not afraid of taking charge of a situation, and demands only the best from her fellow doctors. Despite this, she offers unparalleled support in the operating theatre, as shown by her support of Derek Stiles during his [loss of faith in his skills](../../utk2/episodes/Chapter_4.md) as a surgeon.

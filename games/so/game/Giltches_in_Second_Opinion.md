@@ -14,6 +14,12 @@ Sometimes 'ghost' [sutures](../../../general/tools/sutures.md) or [stars](../../
 
 Rarely, a graphical glitch can occur with [Kyriaki](../../../diseases/GUILT/Kyriaki.md) where the model appears black. The cause is unknown
 
+## Web Skip
+
+*See Also: [Savato | Web Skip](../../../diseases/GUILT/Savato.md#Web_Skip)*
+
+Due to a glitch, tools can be used for one frame when they are at 0 durability if the [Z button](../../../general/Wiimote.md) is tapped repeatedly to act as if one is activating the [Healing Touch](../../../general/Healing_Touch.md). This has one major practical application, where [Savato's](../../../diseases/GUILT/Savato.md) webs can be cut much earlier than intended, making the web phase much easier to complete.
+
 ## Pempti Skip
 
 Rarely, the final animation for [Pempti's](../../../diseases/GUILT/Savato.md) death can end early. This happens extraordinarily rarely, though tends to happen most often on [X-5](../episodes/X_5.md). The cause is currently unknown. This skip can assist [speedruns](../../../community/speedrunning/SO_Speedruning.md), though it appears to be impossible to consistently replicate.
