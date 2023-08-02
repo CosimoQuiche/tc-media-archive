@@ -26,7 +26,19 @@ The plot between Second Opinion and Under the Knife remain almost entirely uncha
 
 ## <a id="Gameplay"></a>Gameplay
 
+The controls for Second Opinion were entirely revamped after Under the Knife, as the series transitioned from the [Nintendo DS](../../general/hardware/Nintendo_DS.md) to the [Wii](../../general/hardware/Wii.md). Tool selection is now down with the [nunchuck's joystick](../../general/hardware/Wiimote.md), allowing for a more seamless playstyle. The pointer is operated by the Wiimote's IR motion sensor, integrating motion controls in the game's playstyle. The [menu system](game/Episode_Select.md) was also entirely reworked from Under the Knife, providing for multiple [difficulty](../../general/Difficulty.md) options and an easier way to replay operations and their cutscenes. All sprites and textures were also reworked, using a more abstract style than Under the Knife. The game also features an autosave system, as well as introduces the famous [XS rank](../../general/Ranks.md).
+
 ## <a id="Characters"></a>Characters
+
+*See also: [List of Characters in Second Opinion/Under the Knife]*
+
+Second Opinion features virtually the same characters as Under the Knife, albeit with a few notable differences.
+
+New characters include:
+- [Naomi Kimishima]
+- [Navel]
+- [Dr. Owen]
+
 
 ## <a id="Development"></a>Development
 

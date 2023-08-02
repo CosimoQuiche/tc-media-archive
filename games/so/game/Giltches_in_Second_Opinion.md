@@ -1,6 +1,6 @@
 # Glitches in Second Opinion
 
-**Glitches in Second Opinion** are mostly minor, and visual in nature. [Second Opinion](../SO.md) was a launch title for the [Nintendo Wii](../../../general/hardware/Nintendo_Wii.md), so it contains numerous quirks related to the Wii's launch.
+**Glitches in Second Opinion** are mostly minor, and visual in nature. [Second Opinion](../SO.md) was a launch title for the [Nintendo Wii](../../../general/hardware/Wii.md), so it contains numerous quirks related to the Wii's launch.
 
 ## Buffered Operation Success Dialogue
 
@@ -18,7 +18,7 @@ Rarely, a graphical glitch can occur with [Kyriaki](../../../diseases/GUILT/Kyri
 
 *See Also: [Savato | Web Skip](../../../diseases/GUILT/Savato.md#Web_Skip)*
 
-Due to a glitch, tools can be used for one frame when they are at 0 durability if the [Z button](../../../general/Wiimote.md) is tapped repeatedly to act as if one is activating the [Healing Touch](../../../general/Healing_Touch.md). This has one major practical application, where [Savato's](../../../diseases/GUILT/Savato.md) webs can be cut much earlier than intended, making the web phase much easier to complete.
+Due to a glitch, tools can be used for one frame when they are at 0 durability if the [Z button](../../../general/hardware/Wiimote.md) is tapped repeatedly to act as if one is activating the [Healing Touch](../../../general/Healing_Touch.md). This has one major practical application, where [Savato's](../../../diseases/GUILT/Savato.md) webs can be cut much earlier than intended, making the web phase much easier to complete.
 
 ## Pempti Skip
 
@@ -27,3 +27,7 @@ Rarely, the final animation for [Pempti's](../../../diseases/GUILT/Savato.md) de
 ## ESS (Episode Select Skip)
 
 After completing an operation, or during a story only operation, it is possible to exit out of the episode early, allowing for an op to be completed without reading all its dialogue. It is unknown if this behavior is intentional or not, thus this may not be a glitch. This trick is used often in speedruns.
+
+---
+
+[Back to Main Page](/tc-wiki)

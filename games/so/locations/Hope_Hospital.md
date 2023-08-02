@@ -63,3 +63,7 @@ These are the recovery rooms for patients after an operation. These are notably 
 ## <a id="Trivia"></a>Trivia
 
 ## <a id="References"></a>References
+
+---
+
+[Back to Main Page](/tc-wiki)
