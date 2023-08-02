@@ -4,11 +4,11 @@
 
 ## Buffered Operation Success Dialogue
 
-If one exits an operation, or restarts it one frame before the "Operation Success" dialogue box appears, then the operation success box will appear over either the briefing, or over the [Episode Select Screen](Episode_Select_Screen.md). This will also stop the [briefing music](../soundtrack/4-Operation_Briefing.md).
+If one exits an operation, or restarts it one frame before the "Operation Success" dialogue box appears, then the operation success box will appear over either the briefing, or over the [Episode Select Screen](Episode_Select.md). This will also stop the [briefing music](../soundtrack/4-Operation_Briefing.md).
 
 ## Buffered Sutures/Stars
 
-Sometimes 'ghost' [sutures](../../../general/tools/sutures.md) or [stars](../../../general/Healing_Touch.md) will appear when beginning an op, depending on your actions on your last preformed op. This can carry between save files.
+Sometimes 'ghost' [sutures](../../../general/tools/Sutures.md) or [stars](../../../general/Healing_Touch.md) will appear when beginning an op, depending on your actions on your last preformed op. This can carry between save files.
 
 ## Black Kyriaki
 
@@ -16,7 +16,7 @@ Rarely, a graphical glitch can occur with [Kyriaki](../../../diseases/GUILT/Kyri
 
 ## Web Skip
 
-*See Also: [Savato | Web Skip](../../../diseases/GUILT/Savato.md#Web_Skip)*
+*See Also: [Savato \| Web Skip](../../../diseases/GUILT/Savato.md#Web_Skip)*
 
 Due to a glitch, tools can be used for one frame when they are at 0 durability if the [Z button](../../../general/hardware/Wiimote.md) is tapped repeatedly to act as if one is activating the [Healing Touch](../../../general/Healing_Touch.md). This has one major practical application, where [Savato's](../../../diseases/GUILT/Savato.md) webs can be cut much earlier than intended, making the web phase much easier to complete.
 

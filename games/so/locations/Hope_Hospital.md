@@ -16,7 +16,7 @@ Hope Hospital is a local hosptial that serves parts of Angeles Bay.
 
 ## <a id="Locations"></a>Locations
 
-Hope Hospital is located near the West Coast of Angeles Bay, south of the [International Airport](Angeles_Bay_International_Airport.md), and [Caduceus USA](Caduceus_USA.md). It is West of the [Citywalk](Angeles_Bay.md#Locations), and appears to be surrounded by both suburbs and sections of the urban city center.
+Hope Hospital is located near the West Coast of Angeles Bay, south of the [International Airport](Angeles_Bay_International_Airport.md), and [Caduceus USA](Caduceus_USA.md). It is west of the [Citywalk](Angeles_Bay.md#Locations), and appears to be surrounded by both suburbs and sections of the urban city center.
 
 ### Exterior / Ambulance Bay
 
@@ -36,7 +36,7 @@ This is the location for briefings for operations, as well as several post-op sc
 
 ### Director's Office
 
-The office of the Director of Hope Hospital is notably seen after [Derek's error](../episodes/1_6.md) in [1-7](../episodes/1_6.md), and in [Dr. Hoffman's](../characters/Robert_Hoffman.md) discussion of the [Healing Touch](../../../general/Healing_Touch.md).
+The office of the Director of Hope Hospital is notably seen after [Derek's error](../episodes/1_6.md) in [1-7](../episodes/1_7.md), and in [Dr. Hoffman's](../characters/Robert_Hoffman.md) discussion of the [Healing Touch](../../../general/Healing_Touch.md).
 
 ### Patient Rooms
 
@@ -55,8 +55,8 @@ These are the recovery rooms for patients after an operation. These are notably 
 
 * [Elliot Cox](../characters/Elliot_Cox.md) - [1-5](../episodes/1_5.md)
 * [Linda Reid](../characters/Linda_Reid.md) - [2-6](../episodes/2_6.md) to [2-9](../episodes/2_9.md)
-* Mr. ??? - [2-11](../episodes/2_11.md)
-* Elise and her Mother - [2-11](../episodes/2_11.md)
+* Mr. Sasano - [2-11](../episodes/2_11.md)
+* Elisa Chalke and her Mother - [2-11](../episodes/2_11.md)
 
 ## <a id="Gallery"></a>Gallery
 

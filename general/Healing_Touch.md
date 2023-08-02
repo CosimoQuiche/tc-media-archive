@@ -16,7 +16,7 @@ The **Healing Touch** (Japanese: 超執刀, *Super Sword* lit. *Super Surgery*) 
 
 ## <a id="Origin"></a>Origin 
 
-In the English releases of both [Under the Knife](../games/UTK.md) and [Second Opinion](../games/so/SO.md), it is said by Robert Hoffman that the Healing Touch is supposedly passed onto the descendants of [Asclepius](https://en.wikipedia.org/wiki/Asclepius), the Greek God of Medicine. However, this is not the case in the original Japanese text. [Naomi Kimishima](../games/so/characters/Naomi_Kimishima.md) often related her Healing Touch to her time in India.
+In the English releases of both [Under the Knife](../games/utk/UTK.md) and [Second Opinion](../games/so/SO.md), it is said by Robert Hoffman that the Healing Touch is supposedly passed onto the descendants of [Asclepius](https://en.wikipedia.org/wiki/Asclepius), the Greek God of Medicine. However, this is not the case in the original Japanese text. [Naomi Kimishima](../games/so/characters/Naomi_Kimishima.md) often related her Healing Touch to her time in India.
 
 The Healing Touch often manifests for a doctor due to an emergency that brings a patient close to death, as seen with Derek Stiles after [a car accident](../games/so/episodes/1_8.md), and [Valerie Blaylock](../games/nb/characters/Valerie_Blaylock.md) after [a building collapse](../games/nb/episodes/1_6.md). 
 
@@ -24,7 +24,7 @@ It is also possible to lose the Healing Touch, most notably [experienced by Dere
 
 ## <a id="Gameplay_Function"></a>Gameplay Function
 
-Once the Healing Touch has been shown in the game, and/or practiced by the doctor with the ability, the Healing Touch becomes available for general use. In general, the Healing Touch can only be used once per in game operation, and only once during multi-patient ops. There is an exception for operations involving Mature [Savato](../diseases/GUILT/Savato.md), as the Healing Touch is used twice. However, the effects of the Healing Touch can last in between patients during multi-patient ops. The duration of the Healing Touch depends on how well the star is drawn in Under the Knife, and Second Opinion. However, it has a constant duration in both New Blood and Under the Knife 2. <!--It typically lasts around ?? seconds.--> In [New Blood](../games/nb/New_Blood.md), it is impossible to use two doctors' Healing Touches at the same time during an operation in [Co-op mode](../games/nb/game/Co-op Mode.md). However, in Second Opinion, both Naomi and Derek are shown using the Healing Touch together to [save Dr. Hoffman](../games/so/episodes/6_8.md).
+Once the Healing Touch has been shown in the game, and/or practiced by the doctor with the ability, the Healing Touch becomes available for general use. In general, the Healing Touch can only be used once per in game operation, and only once during multi-patient ops. There is an exception for operations involving Mature [Savato](../diseases/GUILT/Savato.md), as the Healing Touch is used twice. However, the effects of the Healing Touch can last in between patients during multi-patient ops. The duration of the Healing Touch depends on how well the star is drawn in Under the Knife, and Second Opinion. However, it has a constant duration in both New Blood and Under the Knife 2. <!--It typically lasts around ?? seconds.--> In [New Blood](../games/nb/NB.md), it is impossible to use two doctors' Healing Touches at the same time during an operation in [Co-op mode](../games/nb/game/Co-op Mode.md). However, in Second Opinion, both Naomi and Derek are shown using the Healing Touch together to [save Dr. Hoffman](../games/so/episodes/6_8.md).
 
 ## <a id="Types_of_Healing_Touch"></a>Types of Healing Touch
 
@@ -48,7 +48,7 @@ A list of those able to make use of this type of HT includes:
 
 There are two major variants of this Healing Touch: [Naomi Kimishima's](../games/so/characters/Naomi_Kimishima.md) and [Valerie Blaylock's](../games/nb/characters/Valerie_Blaylock.md).
 
-Naomi Kimishima's Healing Touch allows the player to boost the vitals through well preformed actions during an operation (typically via [Cool actions](mechanics/score.md), or through OKs). Her Healing Touch will award varying amounts of vitals depending on the evaluations given by the game.
+Naomi Kimishima's Healing Touch allows the player to boost the vitals through well preformed actions during an operation (typically via [Cool actions](mechanics/Score.md), or through OKs). Her Healing Touch will award varying amounts of vitals depending on the evaluations given by the game.
 
 <details markdown="1">
 
@@ -67,6 +67,7 @@ Naomi Kimishima's Healing Touch allows the player to boost the vitals through we
 </details>
 
 
+
 Valerie Blaylock's Healing Touch locks the patient's vitals at their current value, essentially making the patient unable to improve or worsen. This means the [Antibiotic Gel](tools/Antibiotic_Gel.md) and [Stabilizer](tools/Syringe.md) will have no effect on the vitals during the duration of her Healing Touch. The only way to influence the vitals during this period is for the patient to enter [Cardiac Arrest](../diseases/general/Cardiac_Arrest.md), or to switch patients. At the end of her Healing Touch, vitals will increase by 10.
 
 ### <a id="Other"></a>Other
@@ -75,7 +76,7 @@ Although it is discussed in game, it is unknown if [Dr. Montgomery](../games/nb/
 
 ## <a id="Strategy"></a>Strategy
 
-In general, it is advised to use the Healing Touch when the patient is close to death, or you're having trouble with tight cycles for operations involving [aneurysms](../diseases/general/Aneurysm.md) or [burns](../diseases/general/Burn.md). Additionally, the Healing Touch is particularly useful for dealing with [Triti](../diseases/GUILT/Triti.md), though it will likely result in a poor score. There are some notable exceptions where you should not use HT, particularly during [Ventricular Fibrillation](../diseases/general/Ventricular_Fibrillation.md) and [Cardiac Arrest](../diseases/general/Cardiac_Arrest.md) and during [Savato](../diseases/GUILT/Savato.md) operations. Healing Touch will not affect [XS ranks](mechanics/ranks.md) for most operations in the series, except for several ops in Under the Knife (for S Rank), [X Ops](mechanics/X_Ops.md), and Triti Ops, so it is also a viable strategy to use Healing Touch to help improve score.
+In general, it is advised to use the Healing Touch when the patient is close to death, or you're having trouble with tight cycles for operations involving [aneurysms](../diseases/general/Aneurysm.md) or [burns](../diseases/general/Burn.md). Additionally, the Healing Touch is particularly useful for dealing with [Triti](../diseases/GUILT/Triti.md), though it will likely result in a poor score. There are some notable exceptions where you should not use HT, particularly during [Ventricular Fibrillation](../diseases/general/Ventricular_Fibrillation.md) and [Cardiac Arrest](../diseases/general/Cardiac_Arrest.md) and during [Savato](../diseases/GUILT/Savato.md) operations. Healing Touch will not affect [XS ranks](mechanics/Ranks.md) for most operations in the series, except for several ops in Under the Knife (for S Rank), [X Ops](mechanics/X_Ops.md), and Triti Ops, so it is also a viable strategy to use Healing Touch to help improve score.
 
 With Naomi's Healing Touch, it is advisable to use it as a replacement for using Stabilizer, provided you can get consistent Cools or can laser multiple [Small Tumors](../diseases/general/Small_Tumor.md) for multiple OKs. This allows you to focus more on completing the operation. Naomi's HT is particularly useful for [Kyriaki](../diseases/GUILT/Kyriaki.md) and [Paraskevi](../diseases/GUILT/Paraskevi.md).
 
@@ -89,7 +90,7 @@ Valerie's Healing Touch is almost always a good idea to pop when the vitals are 
 * It is unknown why most doctors with the ability to use the Healing Touch tend to imagine a star to invoke it.
 * The only game where the Healing Touch isn't directly showcased is [Trauma Team](../games/tt/TT.md). However, it is referenced a few times.
 	* The first reference is located in the XS dialogue following [Chloe's Change](../games/tt/episodes/PZ_6.md), where Naomi muses that she didn't know a doctor "with the Hands of God" worked at [Resurgam](../games/tt/locations/Resurgam.md)<sup><a id="cite_ref_3"></a>[[3]](#cite_note-3)</sup>, in this case relating to [Tomoe Tachibana](../games/tt/characters/Tomoe_Tachibana.md).
-	* The second is mostly speculation revolving [Erhard's] glowing hands before Naomi's operation in [Twisted Rosalia](../games/tt/episodes/PZ_13.md). Some fans speculate he may have the Healing Touch due to this cutscene.
+	* The second is mostly speculation revolving [Erhard's](../games/tt/characters/Erhard_Muller.md) glowing hands before Naomi's operation in [Twisted Rosalia](../games/tt/episodes/PZ_13.md). Some fans speculate he may have the Healing Touch due to this cutscene.
 * Some operations in the series imply the player has used the Healing Touch, even if it is not required or forced to complete an operation. Examples include most notably [2-4](../games/so/episodes/2_4.md)<sup><a id="cite_ref_4"></a>[[4]](#cite_note-4)</sup> and [2-5](../games/so/episodes/2_5.md) in Second Opinion, as well as [2-3](../games/nb/episodes/2_3.md) in New Blood.<sup><a id="cite_ref_5"></a>[[5]](#cite_note-5)</sup>
 * It is unknown if the Healing Touch can manifest in other ways outside of surgery. Adel Tulba attempts to use it to injure Derek Stiles [before his operation](../games/utk2/episodes/7_4.md) near the end of Under the Knife 2, meaning it is possible to use outside of surgery.
 * Naomi Kimishima is the only doctor in the series shown to utilize [multiple types of Healing Touch](../games/so/episodes/X_7.md).
