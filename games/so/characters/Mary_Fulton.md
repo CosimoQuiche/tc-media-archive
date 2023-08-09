@@ -9,7 +9,7 @@ Mary is a veteran nurse at Hope Hospital, seeming to have worked there well befo
 
 ## <a id="Appearance"></a>Appearance
 
-Mary appears calm and well tempered throughout the games, and appears more collected and mature than her younger colleagues. In [Under the Knife](../../utk/UTK.md), she wears a pink nurses outfit. In [Second Opinion](../SO.md) and [Under the Knife 2](../../utk2/UTK2.md), she wears a white nurse’s outfit and has a mole on her right cheek.
+Mary appears calm and well tempered throughout the games, and appears more collected and mature than her younger colleagues. In [Under the Knife](../../utk/UTK.md), she wears a pink nurse's outfit. In [Second Opinion](../SO.md) and [Under the Knife 2](../../utk2/UTK2.md), she wears a white nurse’s outfit and has a mole on her right cheek.
 
 ## <a id="Personality"></a>Personality
 

@@ -12,7 +12,7 @@ Sometimes 'ghost' [sutures](../../../general/tools/Sutures.md) or [stars](../../
 
 ## Black Kyriaki
 
-Rarely, a graphical glitch can occur with [Kyriaki](../../../diseases/GUILT/Kyriaki.md) where the model appears black. The cause is unknown
+Rarely, a graphical glitch can occur with [Kyriaki](../../../diseases/GUILT/Kyriaki.md) where the model appears black. The cause is unknown.
 
 ## Web Skip
 
