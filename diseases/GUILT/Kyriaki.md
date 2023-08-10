@@ -1,0 +1,109 @@
+# Kyriaki
+Kyriaki (キリアキ kiriaki) is the first strain of GUILT encountered in *[Trauma Center: Under the Knife](../../games/utk/UTK.md)* and *[Trauma Center: Second Opinion](../../games/so/SO.md)*, and the first mutated GUILT strain in *[Trauma Center: Under the Knife 2](../../games/utk2/UTK2.md)*. Patients infected with Kyriaki will have multiple small and large lacerations on the affected organ.
+Kyriaki will hide in the organ until revealed with the ultrasound and exposed with the scalpel, after which they are vulnerable to the laser.
+
+## Table of Contents
+1. [General](#General)
+2. [In *Under the Knife*](#In_Under_the_Knife)
+3. [In *Second Opinion*](#In_Second_Opinion)
+4. [In *Under the Knife 2*](#In_Under_the_Knife_2)
+4. [Trivia](#Trivia)
+5. [Gallery](#Gallery)
+6. [References](#References)
+
+## General
+
+There are a total of three types of Kyriaki across the games; immatures, matures, and queens.
+
+**Immature Kyriaki** are present in *Under the Knife*, *Second Opinion*, and *Under the Knife 2*. Immatures spawn in waves of up to three at a time. They create lacerations upon spawning, when exposed, and occasionally as their attack.
+**Mature Kyriaki** are present in *Under the Knife*, *Second Opinion*, and briefly in *Under the Knife 2*. Matures are encountered in the final wave, sometimes paired with an immature. Their attacks are similar to immatures, but create three lacerations instead of one when spawning in. Each time a mature is damaged, it will dive back into the organ.
+**Queen Kyriaki** only appear in *Under the Knife 2*. They are functionally the same as a mature Kyriaki, but spawn eggs which can hatch into immatures. Like matures, they will dive back into the organ once damaged, requiring multiple hits.
+
+Symptoms of Kyriaki include lacerations in the affected organ, causing significant bleeding, shock,<sup><a id="cite_ref_1"></a>[[1]](#cite_note-1)</sup> low blood pressure,<sup><a id="cite_ref_2"></a>[[2]](#cite_note-2)</sup> and pain. It also causes extremely high levels of syprohedrine, causing headaches, emotional distress, and mood swings, sometimes serious enough to prompt suicidal behavior as seen in Linda Reid.<sup><a id="cite_ref_3"></a>[[3]](#cite_note-3)</sup> Kyriaki primarily affect the lungs and small intestine, but is sometimes seen the kidneys.
+
+
+## In *Under the Knife*
+
+Kyriaki in *Under the Knife* are slow-moving and aggressive. They will relentlessly create lacerations until they are defeated.
+
+There are two types of Kyriaki present in *Under the Knife*, being immatures and matures.
+
+Immatures are the most numerous, spawning in waves of up to three at a time. They will create a laceration upon spawning, when exposed, and occasionally as their attack. They must first be found with ultrasound and then exposed with the scalpel. Once exposed, they are vulnerable to the laser, and will take 2 to 3 hits to eliminate.
+Matures appear during the final wave, sometimes paired with an immature. They are similar to immatures, having the same attacks and general approach to treatment, but create three lacerations in the middle of the organ upon spawning instead of one that immatures do. Additionally, each time they are hit by the laser, they will dive back into the organ, needing to be found again.
+
+Each laceration created by a Kyriaki deals 5 damage. The triple-cut deals no damage. 
+This consistent across all operations.
+
+### Tips
+- The most well known and recommended way to deal with Kyriaki in Under the Knife is to leave lacerations on screen. While they will do passive damage over time, this can be mitigated with the gel. Leaving lacerations on screen will eventually take up enough of the DS’s memory that Kyriaki cannot create any new lacerations, except for when it’s exposed.
+- Kyriaki must be dealt with quickly, especially in later operations. Leaving them alive for too long can very quickly stack damage that becomes difficult to recover from.
+- The gel can be used to slow down Kyriaki bodies if they’re hard to hit.
+- Gelling the Kyriaki bodies will also briefly prevent them from creating new lacerations.
+- Leaving a laceration or incision on screen will prevent the next wave from spawning until it’s treated. This can be used to boost vitals before going into the next wave.
+
+<!-- the operation table goes here when we figure out how to split cells -->
+
+## In *Second Opinion*
+Kyriaki in *Second Opinion* are nearly identical to their *Under the Knife* equivalent, using the same set of attacks and general approach to treatment. The main difference is that they are less aggressive, but move much faster around the organ. Both immature and mature Kyriaki are present as usual.
+
+There are two types of Kyriaki present in *Second Opinion*, being immatures and matures.
+Immatures are the most numerous, spawning in waves of up to three at a time. They will create a laceration upon spawning, when exposed, and occasionally as their attack. They must first be found with ultrasound and then exposed with the scalpel. Once exposed, they are vulnerable to the laser, and will take 2 to 3 hits to eliminate.
+Matures appear during the final wave, sometimes paired with an immature. They are similar to immatures, having the same attacks and general approach to treatment, but create three lacerations in the middle of the organ upon spawning instead of one that immatures do. Additionally, each time they are hit by the laser, they will dive back into the organ, needing to be found again.
+
+With *Second Opinion* introducing difficulty settings, Kyriaki will do different amounts of damage depending on the difficulty. 
+Each laceration created by a Kyriaki deals 3/5/7 damage. Excising a Kyriaki deals 1/2/2 damage. The triple-cut deals 12/18/20 damage. 
+X-1, despite being on "Extreme" difficulty, uses the same damage as if it were on hard.
+
+### Tips
+- The gel can be used to slow down Kyriaki bodies if they’re hard to hit.
+- Leaving a laceration or incision on screen will prevent the next wave from spawning until it’s treated. This can be used to boost vitals before going into the next wave.
+
+<!-- the operation table goes here when we figure out how to split cells -->
+
+## In *Under the Knife 2*
+Kyriaki in *Under the Knife 2* are most similar to those in *Second Opinion*, retaining the exact same attack patterns, but are a bit more aggressive and faster. *Under the Knife 2* introduces a new type of Kyriaki, being the Queen Kyriaki.
+
+All three types of Kyriaki present in *Under the Knife 2*, although the matures only appear once.
+Immatures are the most numerous, spawning in waves of up to three at a time. They will create a laceration upon spawning, when exposed, and occasionally as their attack. They must first be found with ultrasound and then exposed with the scalpel. Once exposed, they are vulnerable to the laser, and will take 2 to 3 hits to eliminate.
+Matures appear during the final wave, and only appear in one operation. They are similar to immatures, having the same attacks and general approach to treatment, but create three lacerations in the middle of the organ upon spawning instead of one that immatures do. Additionally, each time they are hit by the laser, they will dive back into the organ, needing to be found again.
+Queen Kyriaki are new, but behave almost identically to matures, creating triple-cuts on spawn, periodically creating lacerations, and requiring multiple hits. When a Queen Kyriaki spawns, it will create eggs which must be excised and removed. Each time it dives, it will create more. Attacking the Queen Kyriaki while eggs are still present in the organ will cause them to hatch into an immature.
+
+<!-- exact damage numbers for utk2 missing -->
+
+### Tips
+- A similar strategy to *Under the Knife*’s memory limitation can be done during the queen waves. If enough lacerations are on screen, eggs won’t spawn, allowing you to deal with just the queen and no eggs or immatures.
+- The gel can be used to slow down Kyriaki bodies if they’re hard to hit.
+- Leaving a laceration or incision on screen will prevent the next wave from spawning until it’s treated. This can be used to boost vitals before going into the next wave.
+
+<!-- the operation table goes here when we figure out how to split cells -->
+
+## Trivia
+- Kyriaki means “Sunday” in Greek, a trait similar to all other GUILT strains.
+- Kyriaki was made to resemble swords, as stated by Adam in X-1.<sup><a id="cite_ref_4"></a>[[4]](#cite_note-4)</sup>
+- There is a [glitch in Second Opinion](../../games/so/game/Giltches_in_Second_Opinion.md) where the mature Kyriaki’s textures get mixed up and appears as black and gray instead of its usual cyan and red.<sup><a id="cite_ref_5"></a>[[5]](#cite_note-5)</sup>
+- Kyriaki is the only strain of GUILT to appear alongside another strain; in *6-4: Second Opinion*, it appears with Paraskevi.
+- The chemical Kyriaki creates, syprohedrine, does not exist in real life. However, in-universe, it is an antihistamine used to treat allergies.<sup><a id="cite_ref_6"></a>[[6]](#cite_note-6)</sup> Drugs containing syprohedrine are still in clinical trial.<sup><a id="cite_ref_7"></a>[[7]](#cite_note-7)</sup>
+
+## Gallery
+
+<!-- emulator screenshots preferred for quality purposes o>o)b -->
+
+## References
+1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Angie](../../games/so/characters/Angie_Thompson.md):** She’s in shock, and losing blood fast!
+*Trauma Center: Second Opinion.* Atlus. Episode: *2-6 Just Let Me Die* (in English). 2006. 
+2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **Angie:** Blood pressure and vitals are dropping fast!
+*Trauma Center: Second Opinion.* Atlus. Episode: *2-6 Just Let Me Die* (in English). 2006. 
+3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **Angie:** Side effects from overdose include headaches and emotional distress…
+**[Greg](../../games/so/characters/Greg_Kasal.md):** In extreme cases, the mood swings are serious enough to prompt suicide.
+*Trauma Center: Second Opinion.* Atlus. Episode: *2-9 Please Let Me Live* (in English). 2006. 
+4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **Adam:** This… is mankind’s first sin. Man created swords to kill, and was in turn killed by swords. 
+*Trauma Center: Second Opinion.* Atlus. Episode: *X-1: Kyriaki* (in English). 2006. 
+5. <a id="cite_note-5"></a> [↑](#cite_ref_5) BOB74j (2008, May 8). ["Trauma Center Second Opinion’s Black Kyriaki"](https://www.youtube.com/watch?v=av-mpzWvlLQ). *YouTube*. Retrieved 2023-08-09.
+6. <a id="cite_note-6"></a> [↑](#cite_ref_6) **Angie:** It’s a new antihistamine, Doctor. They’re usually used to treat allergies.
+*Trauma Center: Second Opinion.* Atlus. Episode: 2-9 *Please Let Me Live* (in English). 2006. 
+7. <a id="cite_note-7"></a> [↑](#cite_ref_7) **Greg:** Drugs involving syprohedrine are still in clinical trial…
+*Trauma Center: Second Opinion.* Atlus. Episode: 2-9 *Please Let Me Live* (in English). 2006. 
+
+---
+
+[Back to Main Page](/tc-wiki)
