@@ -1,6 +1,6 @@
-# Episode List (Second Opinion)
+# Episode List (*Second Opinion*)
 
-Navigation for all episodes within [Trauma Center: Second Opinion](../SO.md).
+Navigation for all episodes within *[Trauma Center: Second Opinion](../SO.md)*.
 
 ## [Chapter 1: Dr. Stiles](Chapter_1.md)
 * [Prologue](Prologue.md)

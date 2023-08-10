@@ -1,6 +1,6 @@
 # Prologue (Second Opinion and Under the Knife)
 
-**Prologue** (Japanese: プロローグ, *Prologue*) is the first, unnumbered episode of both [Second Opinion](../SO.md) and [Under the Knife](../../utk/UTK.md). It is a story episode. In Second Opinion, no chapter number appears on the [Episode Select Screen](../game/Episode_Select.md). The episode is told from the perspective of an unknown narrator.
+**Prologue** (Japanese: プロローグ, *Prologue*) is the first, unnumbered episode of both *[Second Opinion](../SO.md)* and *[Under the Knife](../../utk/UTK.md)*. It is a story episode. In *Second Opinion*, no chapter number appears on the [Episode Select Screen](../game/Episode_Select.md). The episode is told from the perspective of an unknown narrator.
 
 <!-- Title: Prologue | Jpn Title: プロローグ | Fr Title: Prologue | Sp Title: Prólogo | De Title: Prolog | It Title: Prologo | Prev. Episode: None | Next. Episode: [Standard Procedure](1_1.md) | other empty categories: Chapter, Patient details, Episode Number, Operation -->
 ## Summary
@@ -9,11 +9,11 @@ The episode begins with an establishing shot of [Angeles Bay](../locations/Angel
 
 ## Differences
 
-In Second Opinion, the [Hope Hospital theme](../soundtrack/3-Hope_Hospital.md) plays throughout the duration of the episode, while the Under the Knife episode plays out in silence.
+In *Second Opinion*, the [Hope Hospital theme](../soundtrack/3-Hope_Hospital.md) plays throughout the duration of the episode, while in *Under the Knife*, the episode plays out in silence.
 
-All 5 text boxes are different between the English versions of Under the Knife and Second Opinion.
+All 5 text boxes are different between the English versions of *Under the Knife* and *Second Opinion*.
 
-| Under the Knife | Second Opinion |
+| *Under the Knife* | *Second Opinion* |
 | --- | --- |
 | This is Hope Hospital, located in the city of Angeles Bay. | This is Hope Hospital, located in downtown Angeles Bay. |
 | Since its inception, Hope has continuously served the community. | Since its inception, Hope has selflessly served the community. |
@@ -41,12 +41,12 @@ All 5 text boxes are different between the English versions of Under the Knife a
 
 ## Trivia
 
-* This episode is still classified under [Chapter 1](Chapter_1.md) within Second Opinion's files, despite not being shown in game as a part of any chapter. This makes Chapter 1 have 9 episodes in the game's files.
-* This is the only op in UTK that Derek does not appear in.
+* This episode is still classified under [Chapter 1](Chapter_1.md) within *Second Opinion's* files, despite not being shown in game as a part of any chapter. This makes Chapter 1 have 9 episodes in the game's files.
+* This is the only op in *Under the Knife* that Derek does not appear in.
 
 ## External Links
 
 ---
 
-[Back to Main Page](/tc-wiki) | [Back to Second Opinion Episode List](Episode_List.md) | 
+[Back to Main Page](/tc-wiki) | [Back to Second Opinion Episode List](Episode_List.md) | [Next Operation](1_1.md) →
 <!-- move the episode lists to a future info box --->

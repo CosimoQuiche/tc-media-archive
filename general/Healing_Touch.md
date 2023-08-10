@@ -16,15 +16,17 @@ The **Healing Touch** (Japanese: 超執刀, *Super Sword* lit. *Super Surgery*) 
 
 ## <a id="Origin"></a>Origin 
 
-In the English releases of both [Under the Knife](../games/utk/UTK.md) and [Second Opinion](../games/so/SO.md), it is said by Robert Hoffman that the Healing Touch is supposedly passed onto the descendants of [Asclepius](https://en.wikipedia.org/wiki/Asclepius), the Greek God of Medicine. However, this is not the case in the original Japanese text. [Naomi Kimishima](../games/so/characters/Naomi_Kimishima.md) often related her Healing Touch to her time in India.
+In the English releases of both *[Under the Knife](../games/utk/UTK.md)* and *[Second Opinion](../games/so/SO.md)*, it is said by Robert Hoffman that the Healing Touch is supposedly passed onto the descendants of [Asclepius](https://en.wikipedia.org/wiki/Asclepius), the Greek God of Medicine. However, this is not the case in the original Japanese text. [Naomi Kimishima](../games/so/characters/Naomi_Kimishima.md) often related her Healing Touch to her time in India.
 
 The Healing Touch often manifests for a doctor due to an emergency that brings a patient close to death, as seen with Derek Stiles after [a car accident](../games/so/episodes/1_8.md), and [Valerie Blaylock](../games/nb/characters/Valerie_Blaylock.md) after [a building collapse](../games/nb/episodes/1_6.md). 
 
-It is also possible to lose the Healing Touch, most notably [experienced by Derek Stiles](../games/utk2/episodes/4_2.md) in [Under the Knife 2](../games/utk2/UTK2.md). This can likely be caused by [physical intervention](../games/utk2/episodes/3_3.md), or by [a loss of faith in one's abilities](../games/utk2/episodes/3_7.md). It is unknown if a doctor can permanently lose the Healing Touch once achieving it.
+It is also possible to lose the Healing Touch, most notably [experienced by Derek Stiles](../games/utk2/episodes/4_2.md) in *[Under the Knife 2](../games/utk2/UTK2.md)*. This can likely be caused by [physical intervention](../games/utk2/episodes/3_3.md), or by [a loss of faith in one's abilities](../games/utk2/episodes/3_7.md). It is unknown if a doctor can permanently lose the Healing Touch once achieving it.
 
 ## <a id="Gameplay_Function"></a>Gameplay Function
 
-Once the Healing Touch has been shown in the game, and/or practiced by the doctor with the ability, the Healing Touch becomes available for general use. In general, the Healing Touch can only be used once per in game operation, and only once during multi-patient ops. There is an exception for operations involving Mature [Savato](../diseases/GUILT/Savato.md), as the Healing Touch is used twice. However, the effects of the Healing Touch can last in between patients during multi-patient ops. The duration of the Healing Touch depends on how well the star is drawn in Under the Knife, and Second Opinion. However, it has a constant duration in both New Blood and Under the Knife 2. <!--It typically lasts around ?? seconds.--> In [New Blood](../games/nb/NB.md), it is impossible to use two doctors' Healing Touches at the same time during an operation in [Co-op mode](../games/nb/game/Co-op Mode.md). However, in Second Opinion, both Naomi and Derek are shown using the Healing Touch together to [save Dr. Hoffman](../games/so/episodes/6_8.md).
+Once the Healing Touch has been shown in the game, and/or practiced by the doctor with the ability, the Healing Touch becomes available for general use. In general, the Healing Touch can only be used once per in game operation, and only once during multi-patient ops. There is an exception for operations involving Mature [Savato](../diseases/GUILT/Savato.md), as the Healing Touch is used twice. However, the effects of the Healing Touch can last in between patients during multi-patient ops. The duration of the Healing Touch depends on how well the star is drawn in *Under the Knife*, and *Second Opinion*. However, it has a constant duration in both *[New Blood](../games/nb/NB.md)* and *Under the Knife 2*. <!--It typically lasts around ?? seconds.--> In *New Blood*, it is impossible to use two doctors' Healing Touches at the same time during an operation in [Co-op mode](../games/nb/game/Co-op Mode.md). However, in *Second Opinion*, both Naomi and Derek are shown using the Healing Touch together to [save Dr. Hoffman](../games/so/episodes/6_8.md).
+
+There are also multiple times that the Healing Touch is forcibly used regardless of player input. This includes [1-8](../games/so/episodes/1_8.md), [2-1](../games/so/episodes/2_1.md), [5-9](../games/so/episodes/5_9.md), [6-8](../games/utk/episodes/6_8.md), and [X-7](../games/so/episodes/X_7.md) in *Under the Knife*, 1-8, 2-1, 5-9, [Z-2](../games/so/episodes/Z_2.md), [6-8](../games/so/episodes/6_8.md), and X-7 in *Second Opinion*, [1-4](../games/nb/episodes/1_4.md) and [1-6](../games/nb/episodes/1_6.md) in *New Blood*, and [1-6](../games/utk2/episodes/1_6.md) and [3-3](../games/utk2/episodes/3_3.md) in *Under the Knife 2*. When the Healing Touch is automatically used, the game will show a perfect five-pointed star, and once activated, it will have no cool down and can be used indefinitely. This is typically done for plot reasons.
 
 ## <a id="Types_of_Healing_Touch"></a>Types of Healing Touch
 
@@ -32,15 +34,16 @@ There are two major categories relating to the Healing Touch: those that affect 
 
 ### <a id="Slowing_Time"></a>Slowing Time
 
-This type of Healing Touch involves the user thinking and moving at superhuman speed through intense concentration. This also requires an extreme amount of mental energy and focus which can be physically taxing at the extreme. Observers will note that the user appears to be moving extremely quickly. This is shown to the player during [Leonardo Bello's](../games/nb/characters/Leonardo_Bello.md) operation recap in [4-4](../games/nb/episodes/4_4.md) in New Blood.
+This type of Healing Touch involves the user thinking and moving at superhuman speed through intense concentration. This also requires an extreme amount of mental energy and focus, which can be physically taxing at the extreme. Observers will note that the user appears to be moving extremely quickly. This is shown to the player during [Leonardo Bello's](../games/nb/characters/Leonardo_Bello.md) operation recap in [4-4](../games/nb/episodes/4_4.md) in *New Blood*.
 
-In Under the Knife, this makes the Doctor move 2x faster, while in all other titles, it makes the doctor 4x faster.
+In *Under the Knife*, this makes the Doctor move 2x faster, while in all other titles, it makes the doctor 4x faster.
 
 A list of those able to make use of this type of HT includes:
 * [Derek Stiles](../games/so/characters/Derek_Stiles.md)
 * [Robert Hoffman](../games/so/characters/Robert_Hoffman.md)
-* [Naomi Kimishima](../games/so/characters/Naomi_Kimishima.md) (only to stop time in X-7)<sup><a id="cite_ref_2"></a>[[2]](#cite_note-2)</sup>
 * [Markus Vaughn](../games/nb/characters/Markus_Vaughn.md)
+* [Leonardo Bello](../games/nb/characters/Leonardo_Bello.md)
+* [Naomi Kimishima](../games/so/characters/Naomi_Kimishima.md) (only to stop time in X-7)<sup><a id="cite_ref_2"></a>[[2]](#cite_note-2)</sup>
 * [Adel Tulba](../utk2/characters/Adel_Tulba.md) (temporary)
 * [HOA Personnel](../utk2/characters/HOA_Personnel) (temporary)
 
@@ -76,7 +79,7 @@ Although it is discussed in game, it is unknown if [Dr. Montgomery](../games/nb/
 
 ## <a id="Strategy"></a>Strategy
 
-In general, it is advised to use the Healing Touch when the patient is close to death, or you're having trouble with tight cycles for operations involving [aneurysms](../diseases/general/Aneurysm.md) or [burns](../diseases/general/Burn.md). Additionally, the Healing Touch is particularly useful for dealing with [Triti](../diseases/GUILT/Triti.md), though it will likely result in a poor score. There are some notable exceptions where you should not use HT, particularly during [Ventricular Fibrillation](../diseases/general/Ventricular_Fibrillation.md) and [Cardiac Arrest](../diseases/general/Cardiac_Arrest.md) and during [Savato](../diseases/GUILT/Savato.md) operations. Healing Touch will not affect [XS ranks](mechanics/Ranks.md) for most operations in the series, except for several ops in Under the Knife (for S Rank), [X Ops](mechanics/X_Ops.md), and Triti Ops, so it is also a viable strategy to use Healing Touch to help improve score.
+In general, it is advised to use the Healing Touch when the patient is close to death, or you're having trouble with tight cycles for operations involving [aneurysms](../diseases/general/Aneurysm.md) or [burns](../diseases/general/Burn.md). Additionally, the Healing Touch is particularly useful for dealing with [Triti](../diseases/GUILT/Triti.md), though it will likely result in a poor score. There are some notable exceptions where you should not use HT, particularly during Ventricular Fibrillation and Cardiac Arrest, during [Savato](../diseases/GUILT/Savato.md) operations, and during [Aletheia](../diseases/Neo-GUILT/Aletheia.md) operations. Healing Touch will not affect [XS ranks](mechanics/Ranks.md) for most operations in the series, except for several ops in *Under the Knife* (for S Rank), [X Ops](mechanics/X_Ops.md), and Triti ops, so it is also a viable strategy to use Healing Touch to help improve score.
 
 With Naomi's Healing Touch, it is advisable to use it as a replacement for using Stabilizer, provided you can get consistent Cools or can laser multiple [Small Tumors](../diseases/general/Small_Tumor.md) for multiple OKs. This allows you to focus more on completing the operation. Naomi's HT is particularly useful for [Kyriaki](../diseases/GUILT/Kyriaki.md) and [Paraskevi](../diseases/GUILT/Paraskevi.md).
 
@@ -86,13 +89,13 @@ Valerie's Healing Touch is almost always a good idea to pop when the vitals are 
 
 * It remains unknown if the Healing Touch is an innate ability, if it can be learned, or both.
 	* Dr. Montgomery has collected notes relating to his experience with the Healing Touch, which Valerie Blaylock studied while positioned in [Alaska](../games/nb/locations/Alaska.md), implying it could potientally be learned.
-* If the Healing Touch is passed down to the descendants of Asclepius, then it could mean that the parents or offspring of Healing Touch users could also potentially have the ability.
+	* If the Healing Touch is passed down to the descendants of Asclepius, then it could mean that the parents or offspring of Healing Touch users could also potentially have the ability.
 * It is unknown why most doctors with the ability to use the Healing Touch tend to imagine a star to invoke it.
-* The only game where the Healing Touch isn't directly showcased is [Trauma Team](../games/tt/TT.md). However, it is referenced a few times.
+* The only game where the Healing Touch isn't directly showcased is *[Trauma Team](../games/tt/TT.md)*. However, it is referenced a few times.
 	* The first reference is located in the XS dialogue following [Chloe's Change](../games/tt/episodes/PZ_6.md), where Naomi muses that she didn't know a doctor "with the Hands of God" worked at [Resurgam](../games/tt/locations/Resurgam.md)<sup><a id="cite_ref_3"></a>[[3]](#cite_note-3)</sup>, in this case relating to [Tomoe Tachibana](../games/tt/characters/Tomoe_Tachibana.md).
 	* The second is mostly speculation revolving [Erhard's](../games/tt/characters/Erhard_Muller.md) glowing hands before Naomi's operation in [Twisted Rosalia](../games/tt/episodes/PZ_13.md). Some fans speculate he may have the Healing Touch due to this cutscene.
-* Some operations in the series imply the player has used the Healing Touch, even if it is not required or forced to complete an operation. Examples include most notably [2-4](../games/so/episodes/2_4.md)<sup><a id="cite_ref_4"></a>[[4]](#cite_note-4)</sup> and [2-5](../games/so/episodes/2_5.md) in Second Opinion, as well as [2-3](../games/nb/episodes/2_3.md) in New Blood.<sup><a id="cite_ref_5"></a>[[5]](#cite_note-5)</sup>
-* It is unknown if the Healing Touch can manifest in other ways outside of surgery. Adel Tulba attempts to use it to injure Derek Stiles [before his operation](../games/utk2/episodes/7_4.md) near the end of Under the Knife 2, meaning it is possible to use outside of surgery.
+* Some operations in the series imply the player has used the Healing Touch, even if it is not required or forced to complete an operation. Examples include most notably [2-4](../games/so/episodes/2_4.md)<sup><a id="cite_ref_4"></a>[[4]](#cite_note-4)</sup> and [2-5](../games/so/episodes/2_5.md) in *Second Opinion*, as well as [2-3](../games/nb/episodes/2_3.md) in *New Blood*.<sup><a id="cite_ref_5"></a>[[5]](#cite_note-5)</sup>
+* It is unknown if the Healing Touch can manifest in other ways outside of surgery. Adel Tulba attempts to use it to injure Derek Stiles [before his operation](../games/utk2/episodes/7_4.md) near the end of *Under the Knife 2*, meaning it is possible to use outside of surgery.
 * Naomi Kimishima is the only doctor in the series shown to utilize [multiple types of Healing Touch](../games/so/episodes/X_7.md).
 * As Valerie's Healing Touch essentially freezes the patient's condition, it could theoretically be detrimental to the patient if used during Cardiac Arrest, or another near death state.
 * Due to the nature of how the Healing Touch is implemented in the series, it is possible to use many shapes that are not true 5-pointed stars.
@@ -112,7 +115,7 @@ Valerie's Healing Touch is almost always a good idea to pop when the vitals are 
 3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** That was amazing... I had no idea someone with the hands of a god would be working here, too. <br>
 **[Tomoe](../games/tt/characters/Tomoe_Tachibana.md):** Hands of god...? What do you mean? <br>
 **Naomi:** Hm... It seems that geniuses often lack self-awareness... <br>
-*Trauma Team.* Atlus. Episode: *[Chloe's Change](../games/tt/episodes/PZ_6.md)* (in English). 2010. <br>
+*Trauma Team.* Atlus. Episode: *[Pz-6 - Chloe's Change](../games/tt/episodes/PZ_6.md)* (in English). 2010. <br>
 4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **[Angie](../games/so/characters/Angie_Thompson.md):** Right at the last second... Was that the Healing Touch? It's incredible, but...at the same time, it's a little frightening. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-4 - Awakening](../games/so/episodes/2_4.md)* (in English). 2006. <br>
 5. <a id="cite_note-5"></a> [↑](#cite_ref_5) **[Irene](../games/nb/characters/Irene_Quatro.md):** A doctor with the Healing Touch... It's been a while since I've been surprised like this. If the opportunity arises, I'd like to see it used again. <br>
