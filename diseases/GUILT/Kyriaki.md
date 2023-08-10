@@ -90,7 +90,7 @@ Queen Kyriaki are new, but behave almost identically to matures, creating triple
 - Kyriaki means “Sunday” in Greek, a trait similar to all other GUILT strains.
 - Kyriaki was made to resemble swords, as stated by Adam in X-1.<sup><a id="cite_ref_4"></a>[[4]](#cite_note-4)</sup>
 - There is a [glitch in Second Opinion](../../games/so/game/Giltches_in_Second_Opinion.md) where the mature Kyriaki’s textures get mixed up and appears as black and gray instead of its usual cyan and red.<sup><a id="cite_ref_5"></a>[[5]](#cite_note-5)</sup>
-- Kyriaki is the only strain of GUILT to appear alongside another strain; in *6-4: Second Opinion*, it appears with Paraskevi.
+- Kyriaki is the only strain of GUILT to appear alongside another strain; in [Z-5](../../games/so/episodes/Z_5.md), it appears with immature [Savato](Savato.md), and in *Second Opinion's* [6-4](../../games/so/episodes/6_4.md), it appears with Paraskevi.
 - The chemical Kyriaki creates, syprohedrine, does not exist in real life. However, in-universe, it is an antihistamine used to treat allergies.<sup><a id="cite_ref_6"></a>[[6]](#cite_note-6)</sup> Drugs containing syprohedrine are still in clinical trial.<sup><a id="cite_ref_7"></a>[[7]](#cite_note-7)</sup>
 
 ## <a id="Gallery"></a>Gallery
@@ -115,4 +115,4 @@ Queen Kyriaki are new, but behave almost identically to matures, creating triple
 
 ---
 
-[Back to Main Page](/tc-wiki)
+[Back to Main Page](/tc-wiki) | [Next GUILT strain](Deftera.md) →
