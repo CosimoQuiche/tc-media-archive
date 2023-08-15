@@ -52,6 +52,7 @@ This consistent across all operations.
 Kyriaki in *Second Opinion* are nearly identical to their *Under the Knife* equivalent, using the same set of attacks and general approach to treatment. The main difference is that they are less aggressive, but move much faster around the organ. Both immature and mature Kyriaki are present as usual.
 
 There are two types of Kyriaki present in *Second Opinion*, being immatures and matures.
+
 Immatures are the most numerous, spawning in waves of up to three at a time. They will create a laceration upon spawning, when exposed, and occasionally as their attack. They must first be found with ultrasound and then exposed with the scalpel. Once exposed, they are vulnerable to the laser, and will take 2 to 3 hits to eliminate.
 Matures appear during the final wave, sometimes paired with an immature. They are similar to immatures, having the same attacks and general approach to treatment, but create three lacerations in the middle of the organ upon spawning instead of one that immatures do. Additionally, each time they are hit by the laser, they will dive back into the organ, needing to be found again.
 
@@ -71,6 +72,7 @@ Each laceration created by a Kyriaki deals 3/5/7 damage. Excising a Kyriaki deal
 Kyriaki in *Under the Knife 2* are most similar to those in *Second Opinion*, retaining the exact same attack patterns, but are a bit more aggressive and faster. *Under the Knife 2* introduces a new type of Kyriaki, being the Queen Kyriaki.
 
 All three types of Kyriaki present in *Under the Knife 2*, although the matures only appear once.
+
 Immatures are the most numerous, spawning in waves of up to three at a time. They will create a laceration upon spawning, when exposed, and occasionally as their attack. They must first be found with ultrasound and then exposed with the scalpel. Once exposed, they are vulnerable to the laser, and will take 2 to 3 hits to eliminate.
 Matures appear during the final wave, and only appear [in one operation](../../games/utk2/episodes/3_6.md). They are similar to immatures, having the same attacks and general approach to treatment, but create three lacerations in the middle of the organ upon spawning instead of one that immatures do. Additionally, each time they are hit by the laser, they will dive back into the organ, needing to be found again.
 Queen Kyriaki are new, but behave almost identically to matures, creating triple-cuts on spawn, periodically creating lacerations, and requiring multiple hits. When a Queen Kyriaki spawns, it will create eggs which must be excised and removed. Each time it dives, it will create more. Attacking the Queen Kyriaki while eggs are still present in the organ will cause them to hatch into an immature.
