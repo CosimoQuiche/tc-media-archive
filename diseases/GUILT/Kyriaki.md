@@ -16,7 +16,7 @@ Kyriaki will hide in the organ until revealed with the ultrasound and exposed wi
 5. [Gallery](#Gallery)
 6. [References](#References)
 
-##  <a id="General"></a>General
+## <a id="General"></a>General
 
 There are a total of three types of Kyriaki across the games: immatures, matures, and queens.
 

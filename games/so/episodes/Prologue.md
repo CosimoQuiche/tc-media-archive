@@ -3,11 +3,18 @@
 **Prologue** (Japanese: プロローグ, *Prologue*) is the first, unnumbered episode of both *[Second Opinion](../SO.md)* and *[Under the Knife](../../utk/UTK.md)*. It is a story episode. In *Second Opinion*, no chapter number appears on the [Episode Select Screen](../game/Episode_Select.md). The episode is told from the perspective of an unknown narrator.
 
 <!-- Title: Prologue | Jpn Title: プロローグ | Fr Title: Prologue | Sp Title: Prólogo | De Title: Prolog | It Title: Prologo | Prev. Episode: None | Next. Episode: [Standard Procedure](1_1.md) | other empty categories: Chapter, Patient details, Episode Number, Operation -->
-## Summary
+## Table of Contents
+1. [Summary](#Summary)
+2. [Differences](#Differences)
+3. [Other Languages (SO)](#Other_Languages)
+4. [Trivia](#Trivia)
+5. [External Links](#External_Links)
+
+## <a id="Summary"></a>Summary
 
 The episode begins with an establishing shot of [Angeles Bay](../locations/Angeles_Bay.md) and [Hope Hospital](../locations/Hope_Hospital.md). It then introduces [a doctor](../characters/Derek_Stiles.md) in need of some guidance, but who will "soon come to realize his full potential".
 
-## Differences
+## <a id="Differences"></a>Differences
 
 In *Second Opinion*, the [Hope Hospital theme](../soundtrack/3-Hope_Hospital.md) plays throughout the duration of the episode, while in *Under the Knife*, the episode plays out in silence.
 
@@ -21,7 +28,7 @@ All 5 text boxes are different between the English versions of *Under the Knife*
 | But, because of his desire to help people, he strives to improve. | But, he strives to improve out of an earnest desire to help people. |
 | Dr. Derek Stiles will soon realize his full potential... | Dr. Derek Stiles will soon come to realize his full potential... |
 
-## Other Languages (SO)
+## <a id="Other_Languages"></a>Other Languages (SO)
 
 <details markdown="1">
 
@@ -39,12 +46,12 @@ All 5 text boxes are different between the English versions of *Under the Knife*
 
 </details>
 
-## Trivia
+## <a id="Trivia"></a>Trivia
 
 * This episode is still classified under [Chapter 1](Chapter_1.md) within *Second Opinion's* files, despite not being shown in game as a part of any chapter. This makes Chapter 1 have 9 episodes in the game's files.
 * This is the only op in *Under the Knife* that Derek does not appear in.
 
-## External Links
+## <a id="External_Links"></a>External Links
 
 ---
 
