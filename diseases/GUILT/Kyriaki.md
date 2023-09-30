@@ -12,23 +12,21 @@ Kyriaki will hide in the organ until revealed with the ultrasound and exposed wi
 	1. [Tips](#Tips_SO)
 4. [In *Under the Knife 2*](#In_Under_the_Knife_2)
 	1. [Tips](#Tips_UTK2)
-4. [Trivia](#Trivia)
-5. [Gallery](#Gallery)
-6. [References](#References)
+5. [Trivia](#Trivia)
+6. [Gallery](#Gallery)
+7. [References](#References)
 
 ## <a id="General"></a>General
-
 There are a total of three types of Kyriaki across the games: immatures, matures, and queens.
 
 **Immature Kyriaki** are present in *Under the Knife*, *Second Opinion*, and *Under the Knife 2*. Immatures spawn in waves of up to three at a time. They create lacerations upon spawning, when exposed, and occasionally as their attack.
 **Mature Kyriaki** are present in *Under the Knife*, *Second Opinion*, and briefly in *Under the Knife 2*. Matures are encountered in the final wave, sometimes paired with an immature. Their attacks are similar to immatures, but create three lacerations instead of one when spawning in. Each time a mature is damaged, it will dive back into the organ.
 **Queen Kyriaki** only appear in *Under the Knife 2*. They are functionally the same as a mature Kyriaki, but spawn eggs which can hatch into immatures. Like matures, they will dive back into the organ once damaged, requiring multiple hits.
 
-Symptoms of Kyriaki include lacerations in the affected organ, causing significant bleeding, shock,<sup><a id="cite_ref_1"></a>[[1]](#cite_note-1)</sup> low blood pressure,<sup><a id="cite_ref_2"></a>[[2]](#cite_note-2)</sup> and pain. It also produces extremely high levels of syprohedrine, causing headaches, emotional distress, and mood swings, sometimes serious enough to prompt suicidal behavior as seen in Linda Reid.<sup><a id="cite_ref_3"></a>[[3]](#cite_note-3)</sup> Kyriaki primarily affect the lungs and small intestine, but is sometimes seen the kidneys.
+Symptoms of Kyriaki include lacerations in the affected organ, causing significant bleeding, shock,<sup><a id="cite_ref_1"></a>[[1]](#cite_note-1)</sup> low blood pressure,<sup><a id="cite_ref_2"></a>[[2]](#cite_note-2)</sup> and pain. It also produces extremely high levels of syprohedrine, causing headaches, emotional distress, and mood swings, sometimes serious enough to prompt suicidal behavior as seen in [Linda Reid](../../games/so/characters/Linda_Reid.md).<sup><a id="cite_ref_3"></a>[[3]](#cite_note-3)</sup> Kyriaki primarily affect the lungs and small intestine, but is sometimes seen the kidneys, heart, large intestine, and stomach.
 
 
 ## <a id="In_Under_the_Knife"></a>In *Under the Knife*
-
 Kyriaki in *Under the Knife* are slow-moving and aggressive. They will relentlessly create lacerations until they are defeated.
 
 There are two types of Kyriaki present in *Under the Knife*, being immatures and matures.
@@ -92,11 +90,10 @@ Queen Kyriaki are new, but behave almost identically to matures, creating triple
 - Kyriaki means “Sunday” in Greek, a trait similar to all other GUILT strains.
 - Kyriaki was made to resemble swords, as stated by Adam in X-1.<sup><a id="cite_ref_4"></a>[[4]](#cite_note-4)</sup>
 - There is a [glitch in Second Opinion](../../games/so/game/Giltches_in_Second_Opinion.md) where the mature Kyriaki’s textures get mixed up and appears as black and gray instead of its usual cyan and red.<sup><a id="cite_ref_5"></a>[[5]](#cite_note-5)</sup>
-- Kyriaki is the only strain of GUILT to appear alongside another strain; in [Z-5](../../games/so/episodes/Z_5.md), it appears with immature [Savato](Savato.md), and in *Second Opinion's* [6-4](../../games/so/episodes/6_4.md), it appears with Paraskevi.
+- Kyriaki is one of few strains of GUILT to appear alongside other strains; in [Z-5](../../games/so/episodes/Z_5.md), it appears with immature [Savato](Savato.md), and in *Second Opinion's* [6-4](../../games/so/episodes/6_4.md), it appears with Paraskevi.
 - The chemical Kyriaki creates, syprohedrine, does not exist in real life. However, in-universe, it is an antihistamine used to treat allergies.<sup><a id="cite_ref_6"></a>[[6]](#cite_note-6)</sup> Drugs containing syprohedrine are still in clinical trial.<sup><a id="cite_ref_7"></a>[[7]](#cite_note-7)</sup>
 
 ## <a id="Gallery"></a>Gallery
-
 <!-- emulator screenshots preferred for quality purposes o>o)b -->
 
 ## <a id="References"></a>References
@@ -108,7 +105,7 @@ Queen Kyriaki are new, but behave almost identically to matures, creating triple
 **[Greg](../../games/so/characters/Greg_Kasal.md):** In extreme cases, the mood swings are serious enough to prompt suicide. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-9 - Please Let Me Live](../../games/so/episodes/2_9.md)* (in English). 2006. <br>
 4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **[Adam](../../games/so/characters/Adam.md):** This… is mankind’s first sin. Man created swords to kill, and was in turn killed by swords. <br>
-*Trauma Center: Second Opinion.* Atlus. Episode: *[X-1: Kyriaki]../../games/so/episodes/X_1.md* (in English). 2006. <br>
+*Trauma Center: Second Opinion.* Atlus. Episode: *[X-1: Kyriaki](../../games/so/episodes/X_1.md)* (in English). 2006. <br>
 5. <a id="cite_note-5"></a> [↑](#cite_ref_5) BOB74j (2008, May 8). ["Trauma Center Second Opinion’s Black Kyriaki"](https://www.youtube.com/watch?v=av-mpzWvlLQ). *YouTube*. Retrieved 2023-08-09. <br>
 6. <a id="cite_note-6"></a> [↑](#cite_ref_6) **Angie:** It’s a new antihistamine, Doctor. They’re usually used to treat allergies. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *2-9 - Please Let Me Live* (in English). 2006. <br>
