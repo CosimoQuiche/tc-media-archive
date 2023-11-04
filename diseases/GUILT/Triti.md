@@ -1,5 +1,5 @@
 # Triti
-Triti (トリーティ toriti) is the third strain of [GUILT](GUILT.md) encountered in *[Trauma Center: Under the Knife](../../games/utk/UTK.md)* and *[Trauma Center: Second Opinion](../../games/so/SO.md)*. Triti is comprised of multiple triangular membranes covering an organ, which slowly petrify the affected organ. The points of the membranes are held in place with thorns. Triti was created from a failed cancer treatment from Caduceus Europe that Delphi had found out about.<sup><a id="cite_ref_1"></a>[[1]](#cite_note-1)</sup>
+**Triti** (トリーティ *toriti*) is the third strain of [GUILT](GUILT.md) encountered in *[Trauma Center: Under the Knife](../../games/utk/UTK.md)* and *[Trauma Center: Second Opinion](../../games/so/SO.md)*. Triti is comprised of multiple triangular membranes covering an organ, which slowly petrify the affected organ. The points of the membranes are held in place with thorns. Triti was created from a failed cancer treatment from Caduceus Europe that Delphi had found out about.<sup><a id="cite_ref_1"></a>[[1]](#cite_note-1)</sup>
 
 ## Table of Contents
 1. [General](#General)

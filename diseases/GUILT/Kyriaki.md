@@ -55,8 +55,8 @@ Immatures are the most numerous, spawning in waves of up to three at a time. The
 Matures appear during the final wave, sometimes paired with an immature. They are similar to immatures, having the same attacks and general approach to treatment, but create three lacerations in the middle of the organ upon spawning instead of one that immatures do. Additionally, each time they are hit by the laser, they will dive back into the organ, needing to be found again.
 
 With *Second Opinion* introducing difficulty settings, Kyriaki will do different amounts of damage depending on the [difficulty](../../general/mechanics/Difficulty.md). 
-Each laceration created by a Kyriaki deals 3/5/7 damage. Excising a Kyriaki deals 1/2/2 damage. The triple-cut deals 12/18/20 damage. 
-[X-1](../../games/so/episodes/X_1.md), despite being on ["Extreme"](../../general/mechanics/X_Ops.md) difficulty, uses the same damage as if it were on hard.
+Each laceration created by a Kyriaki deals <font color="#584219">3</font color>/<font color="#848484">5</font color>/<font color="#C1A143">7</font color> damage. Excising a Kyriaki deals <font color="#584219">1</font color>/<font color="#848484">2</font color>/<font color="#C1A143">2</font color> damage. The triple-cut deals <font color="#584219">12</font color>/<font color="#848484">18</font color>/<font color="#C1A143">20</font color> damage. 
+[X-1](../../games/so/episodes/X_1.md), despite being on ["Extreme"](../../general/mechanics/X_Ops.md) difficulty, deals the same damage as if it were on hard.
 
 <!-- we should probably mention A-4 in New Blood here -->
 
