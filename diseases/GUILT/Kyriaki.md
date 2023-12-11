@@ -96,19 +96,19 @@ Queen Kyriaki are new, but behave almost identically to matures, creating triple
 <!-- emulator screenshots preferred for quality purposes o>o)b -->
 
 ## <a id="References"></a>References
-1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Angie](../../games/so/characters/Angie_Thompson.md):** She’s in shock, and losing blood fast! <br>
+1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Angie Thompson](../../games/so/characters/Angie_Thompson.md):** She’s in shock, and losing blood fast! <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-6 - Just Let Me Die](../../games/so/episodes/2_6.md)* (in English). 2006. <br>
-2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **Angie:** Blood pressure and vitals are dropping fast! <br>
+2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **Angie Thompson:** Blood pressure and vitals are dropping fast! <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *2-6 - Just Let Me Die* (in English). 2006. <br>
-3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **Angie:** Side effects from overdose include headaches and emotional distress… <br>
+3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **Angie Thompson:** Side effects from overdose include headaches and emotional distress… <br>
 **[Greg](../../games/so/characters/Greg_Kasal.md):** In extreme cases, the mood swings are serious enough to prompt suicide. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-9 - Please Let Me Live](../../games/so/episodes/2_9.md)* (in English). 2006. <br>
 4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **[Adam](../../games/so/characters/Adam.md):** This… is mankind’s first sin. Man created swords to kill, and was in turn killed by swords. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[X-1: Kyriaki](../../games/so/episodes/X_1.md)* (in English). 2006. <br>
 5. <a id="cite_note-5"></a> [↑](#cite_ref_5) BOB74j (2008, May 8). ["Trauma Center Second Opinion’s Black Kyriaki"](https://www.youtube.com/watch?v=av-mpzWvlLQ). *YouTube*. Retrieved 2023-08-09. <br>
-6. <a id="cite_note-6"></a> [↑](#cite_ref_6) **Angie:** It’s a new antihistamine, Doctor. They’re usually used to treat allergies. <br>
+6. <a id="cite_note-6"></a> [↑](#cite_ref_6) **Angie Thompson:** It’s a new antihistamine, Doctor. They’re usually used to treat allergies. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *2-9 - Please Let Me Live* (in English). 2006. <br>
-7. <a id="cite_note-7"></a> [↑](#cite_ref_7) **Greg:** Drugs involving syprohedrine are still in clinical trial… <br>
+7. <a id="cite_note-7"></a> [↑](#cite_ref_7) **Greg Kasal:** Drugs involving syprohedrine are still in clinical trial… <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *2-9 - Please Let Me Live* (in English). 2006. <br>
 
 ---

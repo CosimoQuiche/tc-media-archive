@@ -56,15 +56,15 @@ With *Second Opinion* introducing difficulty settings, Deftera will do more dama
 ## <a id="Gallery"></a>Gallery
 
 ## <a id="References"></a>References
-1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Tyler](../../games/so/characters/Tyler_Chase.md):** Well, to be fair, “moving” is kind of a bad way to describe it. It copies itself to other locations. So…it just looks like it’s moving. <br>
+1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Tyler Chase](../../games/so/characters/Tyler_Chase.md):** Well, to be fair, “moving” is kind of a bad way to describe it. It copies itself to other locations. So…it just looks like it’s moving. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[3-4 - Something Precious](../../games/so/episodes/3_4.md).* 2006. <br>
-2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Dr. Clarks](../../games/so/characters/Stephen_Clarks.md):** If we don’t extract the GUILT entirely, we’ll be right back where we started. <br>
+2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Stephen Clarks](../../games/so/characters/Stephen_Clarks.md):** If we don’t extract the GUILT entirely, we’ll be right back where we started. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *3-4 - Something Precious.* 2006. <br>
-3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Leslie](../../games/so/characters/Leslie_Sears.md):** Her vitals are dropping, and she’s losing consciousness! <br>
+3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Leslie Sears](../../games/so/characters/Leslie_Sears.md):** Her vitals are dropping, and she’s losing consciousness! <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *3-4 - Something Precious.* 2006. <br>
-4.  <a id="cite_note-4"></a> [↑](#cite_ref_4) **Tyler**: Her respiratory system’s in trouble, and her digestive tract is next. <br>
+4.  <a id="cite_note-4"></a> [↑](#cite_ref_4) **Tyler Chase**: Her respiratory system’s in trouble, and her digestive tract is next. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *3-4 - Something Precious.* 2006. <br>
 
 ---
 
-[Back to Main Page](/tc-wiki) | [Next GUILT strain](Triti.md) →
+[Back to Main Page](/tc-wiki) | ← [Previous GUILT strain](Kyriaki.md) | [Next GUILT strain](Triti.md) →
