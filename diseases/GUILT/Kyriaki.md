@@ -10,6 +10,7 @@ Kyriaki will hide in the organ until revealed with the ultrasound and exposed wi
 	1. [Tips](#Tips_UTK)
 3. [In *Second Opinion*](#In_Second_Opinion)
 	1. [Tips](#Tips_SO)
+	2. [Operations in *Second Opinion*](#Operations_SO)
 4. [In *Under the Knife 2*](#In_Under_the_Knife_2)
 	1. [Tips](#Tips_UTK2)
 5. [Trivia](#Trivia)
@@ -63,7 +64,79 @@ With *Second Opinion* introducing difficulty settings, Kyriaki will do different
 - The gel can be used to slow down Kyriaki bodies if they’re hard to hit.
 - Leaving a laceration or an incision on screen will prevent the next wave from spawning until it’s treated. This can be used to boost vitals before going into the next wave.
 
-<!-- the operation table goes here when we figure out how to split cells -->
+### <a id="Operations_SO"></a>Operations in *Second Opinion*
+<details markdown="1">
+<table border="1">
+	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+		<th>Amount of Kyriaki</th>
+    </tr>
+    <tr>
+        <td>2-9: <i>Please Let Me Live</i></td>
+        <td><div align="center">Linda Reid</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">1+2 Immatures, 1 Mature</div></td>
+	</tr>
+	<tr>
+        <td>3-2: <i>GUILT</i></td>
+        <td><div align="center">Jack Reyes</div></td>
+        <td><div align="center">Small intestine</div></td>
+		<td><div align="center">1+2 Immatures, 1 Mature</div></td>
+    </tr>
+ 	<tr>
+		<td rowspan="5">5-2: <i>Under the Knife</i></td>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Left lung</div></td>
+		<td><div align="center">1+2 Immatures, 1 Mature</div></td>
+ 	</tr>
+ 	<tr>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Left lung</div></td>
+		<td><div align="center">2+3 Immatures, 1 Mature</div></td>
+ 	</tr>
+	 <tr>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Right lung</div></td>
+		<td><div align="center">2+2 Immatures, 1 Mature & 1 Immature</div></td>
+ 	</tr>
+   	<tr>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Right lung</div></td>
+		<td><div align="center">2+2 Immatures, 1 Mature & 1 Immature</div></td>
+ 	</tr>
+  	<tr>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Left kidney</div></td>
+		<td><div align="center">3+2 Immatures, 1 Mature & 1 Immature</div></td>
+	</tr>
+	<tr>
+        <td>Z-5: <i>Sayonara</i></td>
+        <td><div align="center">J. Webber</div></td>
+        <td><div align="center">Small intestine</div></td>
+		<td><div align="center">3+2 Immatures, 1 Mature</div></td>
+	</tr>
+	<tr>
+        <td>6-4: <i>Second Opinion</i></td>
+        <td><div align="center">Derek Stiles</div></td>
+        <td><div align="center">Heart</div></td>
+		<td><div align="center">3+2 Immatures, 1 Mature</div></td>
+	</tr>
+	<tr>
+        <td>6-7: <i>Fallen Heroes</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Small intestine</div></td>
+		<td><div align="center">3+2 Immatures, 1 Mature</div></td>
+	</tr>
+	<tr>
+        <td>X1: <i>Kyriaki</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Small intestine</div></td>
+		<td><div align="center">3+2 Immatures, 1 Mature</div></td>
+	</tr>
+</table>
+</details>
 
 ## <a id="In_Under_the_Knife_2"></a>In *Under the Knife 2*
 Kyriaki in *Under the Knife 2* are most similar to those in *Second Opinion*, retaining the exact same attack patterns, but are a bit more aggressive and faster. *Under the Knife 2* introduces a new type of Kyriaki, being the Queen Kyriaki.
