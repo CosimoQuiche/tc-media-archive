@@ -1,5 +1,5 @@
 # Tetarti
-**Tetarti** (テタルティ *tetaruti*) is the fourth strain of [GUILT](GUILT.md) encountered in *[Trauma Center: Under the Knife](../../games/utk/UTK.md)* and *[Trauma Center: Second Opinion](../../games/so/SO.md)*, and the second mutated GUILT strain in *[Trauma Center: Under the Knife 2](../../games/utk2/UTK2.md)*. They always appear in groups of three and release toxic antigens into their hosts. When first encountered, there is no available treatment, requiring research to be done on untreated Tetarti patients to extract antigen from immature Tetarti bodies to create a serum.
+**Tetarti** (Japanese: テタルティ, *tetaruti*) is the fourth strain of [GUILT](GUILT.md) encountered in *[Trauma Center: Under the Knife](../../games/utk/UTK.md)* and *[Trauma Center: Second Opinion](../../games/so/SO.md)*, and the second mutated GUILT strain in *[Trauma Center: Under the Knife 2](../../games/utk2/UTK2.md)*. They always appear in groups of three and release toxic antigens into their hosts. When first encountered, there is no available treatment, requiring research to be done on untreated Tetarti patients to extract antigen from immature Tetarti bodies to create a serum.
 
 ## Table of Contents
 1. [General](#General)

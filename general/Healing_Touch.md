@@ -106,19 +106,19 @@ Valerie's Healing Touch is almost always a good idea to pop when the vitals are 
 
 ## <a id="References"></a>References
 
-1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Greg](../games/so/characters/Greg_Kasal.md):** I'd advise you to use [the Healing Touch] only when absolutely necessary... After all, you shouldn't be relying solely on the Healing Touch, anyway. Developing your natural skills as a surgeon is far more important. ...We can't assume the Healing Touch was the only reason Kovac survived. If you want to help people, then focus on strengthening your natural abilities. <br>
+1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Greg Kasal](../games/so/characters/Greg_Kasal.md):** I'd advise you to use [the Healing Touch] only when absolutely necessary... After all, you shouldn't be relying solely on the Healing Touch, anyway. Developing your natural skills as a surgeon is far more important. ...We can't assume the Healing Touch was the only reason Kovac survived. If you want to help people, then focus on strengthening your natural abilities. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-5 - Paying the Price](../games/so/episodes/2_5.md)* (in English). 2006. <br>
-2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** I'll have to try it the way Derek does... <br>
+2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Naomi Kimishima](../games/so/characters/Naomi_Kimishima.md):** I'll have to try it the way Derek does... <br>
 **...** <br>
-**Naomi:** I must have done it well enough, cause it worked. <br>
+**Naomi Kimishima:** I must have done it well enough, cause it worked. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[X-7: Savato (Naomi)](../games/so/episodes/X_7.md)* (in English). 2006. <br>
-3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Naomi](../games/so/characters/Naomi_Kimishima.md):** That was amazing... I had no idea someone with the hands of a god would be working here, too. <br>
-**[Tomoe](../games/tt/characters/Tomoe_Tachibana.md):** Hands of god...? What do you mean? <br>
-**Naomi:** Hm... It seems that geniuses often lack self-awareness... <br>
+3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **Naomi Kimishima:** That was amazing... I had no idea someone with the hands of a god would be working here, too. <br>
+**[Tomoe Tachibana](../games/tt/characters/Tomoe_Tachibana.md):** Hands of god...? What do you mean? <br>
+**Naomi Kimishima:** Hm... It seems that geniuses often lack self-awareness... <br>
 *Trauma Team.* Atlus. Episode: *[Pz-6 - Chloe's Change](../games/tt/episodes/PZ_6.md)* (in English). 2010. <br>
-4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **[Angie](../games/so/characters/Angie_Thompson.md):** Right at the last second... Was that the Healing Touch? It's incredible, but...at the same time, it's a little frightening. <br>
+4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **[Angie Thompson](../games/so/characters/Angie_Thompson.md):** Right at the last second... Was that the Healing Touch? It's incredible, but...at the same time, it's a little frightening. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-4 - Awakening](../games/so/episodes/2_4.md)* (in English). 2006. <br>
-5. <a id="cite_note-5"></a> [↑](#cite_ref_5) **[Irene](../games/nb/characters/Irene_Quatro.md):** A doctor with the Healing Touch... It's been a while since I've been surprised like this. If the opportunity arises, I'd like to see it used again. <br>
+5. <a id="cite_note-5"></a> [↑](#cite_ref_5) **[Irene Quatro](../games/nb/characters/Irene_Quatro.md):** A doctor with the Healing Touch... It's been a while since I've been surprised like this. If the opportunity arises, I'd like to see it used again. <br>
 *Trauma Center: New Blood.* Atlus. Episode: *[2-3 - Dependable Pair](../games/nb/episodes/2_3.md)* (in English). 2007. <br>
 
 ---

@@ -101,7 +101,7 @@ Queen Kyriaki are new, but behave almost identically to matures, creating triple
 2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **Angie Thompson:** Blood pressure and vitals are dropping fast! <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *2-6 - Just Let Me Die* (in English). 2006. <br>
 3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **Angie Thompson:** Side effects from overdose include headaches and emotional distress… <br>
-**[Greg](../../games/so/characters/Greg_Kasal.md):** In extreme cases, the mood swings are serious enough to prompt suicide. <br>
+**[Greg Kasal](../../games/so/characters/Greg_Kasal.md):** In extreme cases, the mood swings are serious enough to prompt suicide. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[2-9 - Please Let Me Live](../../games/so/episodes/2_9.md)* (in English). 2006. <br>
 4. <a id="cite_note-4"></a> [↑](#cite_ref_4) **[Adam](../../games/so/characters/Adam.md):** This… is mankind’s first sin. Man created swords to kill, and was in turn killed by swords. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[X-1: Kyriaki](../../games/so/episodes/X_1.md)* (in English). 2006. <br>
