@@ -56,11 +56,11 @@ Triti will passively deal damage to the patient on a timer. Unlike in *Under the
 ## <a id="Gallery"></a>Gallery
 
 ## <a id="References"></a>References
-1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Director Miller](../../games/so/characters/Langston_Miller.md):** I’m afraid this GUILT…was derived from one of my country’s past sins. As I said earlier, we were trying to create a treatment for cancer using high-frequency vibrations. But…there were complications. (...) And, apparently, Delphi found out about it.  <br>
+1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Langston Miller](../../games/so/characters/Langston_Miller.md):** I’m afraid this GUILT…was derived from one of my country’s past sins. As I said earlier, we were trying to create a treatment for cancer using high-frequency vibrations. But…there were complications. (...) And, apparently, Delphi found out about it.  <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[3-10 - Pandora's Box](../../games/so/episodes/3_10.md).* 2006. <br>
 2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Adam](../../games/so/characters/Adam.md):** In 1995, the Aum Shinri Kyo cult attacked a Tokyo subway station. We studied that attack in detail while developing our own GUILT. <br>
 *Trauma Center: Under the Knife.* Atlus. Episode: *[X-3: Triti](../../games/utk/episodes/X_3.md)* 2006. <br>
 
 ---
 
-[Back to Main Page](/tc-wiki) | [Next GUILT strain](Tetarti.md) →
+[Back to Main Page](/tc-wiki) | ← [Previous GUILT strain](Deftera.md) | [Next GUILT strain](Tetarti.md) →

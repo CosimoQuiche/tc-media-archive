@@ -39,7 +39,7 @@ Deftera in *Second Opinion* are fast-moving bodies that move in large circular p
 Deftera will occasionally make large, unique tumors that create smaller tumors around itself. They will continue to spawn tumors until fully incinerated. All but one of the patients infected with Deftera in *Second Opinion* have two organs that need to be operated on. In the first organ, one pair of Deftera is present. When the two opposite types meet, they will merge and turn into a tumor that needs to be drained. They have three phases, getting more saturated in color as their health drops. On the final phase after being drained, they will enter a rampaging state, rapidly spinning and dropping the vitals quickly while creating large tumors until they’re fully excised.
 When two pairs of Deftera are present, they can bump into each other. If two of the same type attempt to merge, they will bounce off each other, dealing damage to the patient and creating two large tumors. A single Deftera may also bump into a merged pair, breaking the pair and dealing damage along with creating a large tumor.
 
-With *Second Opinion* introducing difficulty settings, Deftera will do more damage the higher the [difficulty](../../general/mechanics/Difficulty.md). The damage caused by Deftera is primarily from the tumors it creates, dealing more damage the more there are. Using the gel on a Deftera body will also slightly lower the vitals. If the Deftera bumps into either the same type or a merged pair, it will deal <font color="#584219">2</font color>/<font color="#848484">4</font color>/<font color="#C1A143">4</font color> damage, and 9 damage in [*X-2: Deftera*](../../games/so/episodes/X_2.md).
+With *Second Opinion* introducing difficulty settings, Deftera will do more damage the higher the [difficulty](../../general/mechanics/Difficulty.md). The damage caused by Deftera is primarily from the tumors it creates, dealing more damage the more there are. Using the gel on a Deftera body will also slightly lower the vitals. If the Deftera bumps into either the same type or a merged pair, it will deal 2/4/4 damage, and 9 damage in [*X-2: Deftera*](../../games/so/episodes/X_2.md).
 
 ### <a id="Tips_SO"></a>Tips
 - Tapping the gel on one of the Deftera will make it bounce off, at the cost of some vitals. This can be used to stop Deftera from bumping into a merged pair, or to goad them to merge.
@@ -56,15 +56,15 @@ With *Second Opinion* introducing difficulty settings, Deftera will do more dama
 ## <a id="Gallery"></a>Gallery
 
 ## <a id="References"></a>References
-1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Tyler](../../games/so/characters/Tyler_Chase.md):** Well, to be fair, “moving” is kind of a bad way to describe it. It copies itself to other locations. So…it just looks like it’s moving. <br>
+1. <a id="cite_note-1"></a> [↑](#cite_ref_1) **[Tyler Chase](../../games/so/characters/Tyler_Chase.md):** Well, to be fair, “moving” is kind of a bad way to describe it. It copies itself to other locations. So…it just looks like it’s moving. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *[3-4 - Something Precious](../../games/so/episodes/3_4.md).* 2006. <br>
-2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Dr. Clarks](../../games/so/characters/Stephen_Clarks.md):** If we don’t extract the GUILT entirely, we’ll be right back where we started. <br>
+2. <a id="cite_note-2"></a> [↑](#cite_ref_2) **[Stephen Clarks](../../games/so/characters/Stephen_Clarks.md):** If we don’t extract the GUILT entirely, we’ll be right back where we started. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *3-4 - Something Precious.* 2006. <br>
-3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Leslie](../../games/so/characters/Leslie_Sears.md):** Her vitals are dropping, and she’s losing consciousness! <br>
+3. <a id="cite_note-3"></a> [↑](#cite_ref_3) **[Leslie Sears](../../games/so/characters/Leslie_Sears.md):** Her vitals are dropping, and she’s losing consciousness! <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *3-4 - Something Precious.* 2006. <br>
-4.  <a id="cite_note-4"></a> [↑](#cite_ref_4) **Tyler**: Her respiratory system’s in trouble, and her digestive tract is next. <br>
+4.  <a id="cite_note-4"></a> [↑](#cite_ref_4) **Tyler Chase**: Her respiratory system’s in trouble, and her digestive tract is next. <br>
 *Trauma Center: Second Opinion.* Atlus. Episode: *3-4 - Something Precious.* 2006. <br>
 
 ---
 
-[Back to Main Page](/tc-wiki) | [Next GUILT strain](Triti.md) →
+[Back to Main Page](/tc-wiki) | ← [Previous GUILT strain](Kyriaki.md) | [Next GUILT strain](Triti.md) →
