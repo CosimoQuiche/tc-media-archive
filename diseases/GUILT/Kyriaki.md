@@ -121,18 +121,18 @@ With *Second Opinion* introducing difficulty settings, Kyriaki will do different
         <td>6-4: <i>Second Opinion</i></td>
         <td><div align="center">Derek Stiles</div></td>
         <td><div align="center">Heart</div></td>
-		<td><div align="center">3+2 Immatures, 1 Mature & 1 Immature</div></td>
+		<td><div align="center">2+3 Immatures, 1 Mature & 1 Immature</div></td>
 	</tr>
 	<tr>
         <td>6-7: <i>Fallen Heroes</i></td>
         <td><div align="center">Unnamed</div></td>
-        <td><div align="center">Small intestine</div></td>
-		<td><div align="center">3+2 Immatures, 1 Mature & 1 Immature</div></td>
+        <td><div align="center">Left Lung</div></td>
+		<td><div align="center">2+2 Immatures, 1 Mature & 1 Immature</div></td>
 	</tr>
 	<tr>
         <td>X1: <i>Kyriaki</i></td>
         <td><div align="center">Unnamed</div></td>
-        <td><div align="center">Small intestine</div></td>
+        <td><div align="center">Left Kidney</div></td>
 		<td><div align="center">3+2 Immatures, 1 Mature & 1 Immature</div></td>
 	</tr>
 </table>
