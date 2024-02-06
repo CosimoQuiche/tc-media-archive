@@ -5,8 +5,10 @@
 1. [General](#General)
 2. [In *Under the Knife*](#In_Under_the_Knife)
 	1. [Tips](#Tips_UTK)
+	2. [Operations in *Under the Knife*](#Operations_UTK)
 3. [In *Second Opinion*](#In_Second_Opinion)
 	1. [Tips](#Tips_SO)
+	2. [Operations in *Second Opinion*](#Operations_SO)
 4. [Trivia](#Trivia)
 5. [Gallery](#Gallery)
 6. [References](#References)
@@ -31,7 +33,39 @@ Triti will passively deal damage to the patient on a timer. The amount of damage
 - Triti cannot extend past the organ boundaries, allowing for it to be cornered by letting it only multiply into one of the edges of the organ.
 - Adjacent thorns pointing towards the organ boundaries can be left in while dealing with the rest of Triti, since it cannot multiply into that space.
 
-<!-- the operation table goes here when we figure out how to split cells -->
+### <a id="Operations_UTK"></a>Operations in *Under the Knife*
+<table border="1">
+	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+    </tr>
+    <tr>
+        <td>3-10: <i>Forbidden Knowledge</i></td>
+        <td><div align="center">Reuben</div></td>
+        <td><div align="center">Pancreas</div></td>
+	</tr>
+	<tr>
+        <td rowspan="2">5-3: <i>Shifting GUILT</i></td>
+        <td><div align="center">Hugh Volger</div></td>
+        <td><div align="center">Pancreas</div></td>
+	</tr>
+	<tr>
+        <td><div align="center">Shane Carter\*</div></td>
+        <td><div align="center">Pancreas</div></tsd>
+  	</tr>
+    <tr>
+        <td>6-4: <i>Third Sin</i></td>
+        <td><div align="center">3rd Sinner</div></td>
+        <td><div align="center">Stomach</div></td>
+	</tr>
+    <tr>
+        <td>X3: <i>Triti</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Pancreas</div></td>
+	</tr>
+</table>
+\*This patient is only operated on if the thorn mist escapes the operating field. Only one of the patients in this operation needs to be treated for the operation to be completed.
 
 ## <a id="In_Second_Opinion"></a>In *Second Opinion*
 Triti in *Second Opinion* is comprised of multiple membranes arranged around the organ, connected and held in place by thorns. The thorns must be removed first, allowing membranes that no longer have thorns to be removed. Unlike in *Under the Knife*, there is no excision step with the scalpel.
@@ -46,7 +80,43 @@ Triti will passively deal damage to the patient on a timer. Unlike in *Under the
 - Triti cannot extend past the organ boundaries, allowing for it to be cornered by letting it only multiply into one of the edges of the organ.
 - Adjacent thorns pointing towards the organ boundaries can be left in while dealing with the rest of Triti, since it cannot multiply into that space.
 
-<!-- the operation table goes here when we figure out how to split cells -->
+### <a id="Operations_SO"></a>Operations in *Second Opinion*
+<table border="1">
+	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+    </tr>
+    <tr>
+        <td>3-10: <i>Pandora's Box</i></td>
+        <td><div align="center">Reuben</div></td>
+        <td><div align="center">Pancreas</div></td>
+	</tr>
+	<tr>
+        <td rowspan="3">5-3: <i>Shifting GUILT</i></td>
+        <td><div align="center">Hugh Volger</div></td>
+        <td><div align="center">Pancreas</div></td>
+	</tr>
+	<tr>
+        <td><div align="center">Shane Carter\*</div></td>
+        <td><div align="center">Pancreas</div></td>
+  	</tr>
+	<tr>
+        <td><div align="center">George Wylie\*</div></td>
+        <td><div align="center">Pancreas</div></td>
+  	</tr>
+    <tr>
+        <td>6-7: <i>Alex Yang</i></td>
+        <td><div align="center">3rd Sinner</div></td>
+        <td><div align="center">Pancreas</div></td>
+	</tr>
+    <tr>
+        <td>X3: <i>Triti</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Pancreas</div></td>
+	</tr>
+</table>
+\*These patients are only operated on if the thorn mist escapes the operating field. Only one of the patients in this operation needs to be treated for the operation to be completed.
 
 ## <a id="Trivia"></a>Trivia
 - Triti means “Tuesday” in Greek, a trait similar to all other GUILT strains.

@@ -5,8 +5,10 @@
 1. [General](#General)
 2. [In *Under the Knife*](#In_Under_the_Knife)
 	1. [Tips](#Tips_UTK)
+	2. [Operations in *Under the Knife*](#Operations_UTK)
 3. [In *Second Opinion*](#In_Second_Opinion)
 	1. [Tips](#Tips_SO)
+	2. [Operations in *Second Opinion*](#Operations_SO)
 4. [Trivia](#Trivia)
 5. [Gallery](#Gallery)
 6. [References](#References)
@@ -31,7 +33,42 @@ The damage caused by Deftera is primarily from the tumors it creates. The tumors
 - Keeping two pairs of Deftera on separate health can prevent them from merging with the same type, but will not prevent them from bumping into merged pairs.
 - There is no need to boost vitals between organs, since the game treats it as a separate patient and resets the vitals to max.
 
-<!-- operation table goes here when we figure out how to split cells. technically, deftera doesnt need split cells, but i feel its best to wait for the other tables for consistency's sake. -->
+### <a id="Operations_UTK"></a>Operations in *Under the Knife*
+<table border="1">
+	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ(s)</th>
+		<th>Deftera Pairs</th>
+    </tr>
+  	<tr>
+        <td rowspan="2">3-4: <i>Something Precious</i></td>
+        <td rowspan="2"><div align="center">Amy Chase</div></td>
+        <td><div align="center">Stomach</div></td>
+		<td><div align="center">1 pair in the stomach</div></td>
+	</tr>
+		<td><div align="center">Right lung</div></td>
+  		<td><div align="center">2 pairs in the right lung</div></td>
+	</tr>
+	<tr>
+        <td rowspan="2">6-3: <i>Second Sin</i></td>
+        <td rowspan="2"><div align="center">2nd Sinner</div></td>
+        <td><div align="center">Right kidney</div></td>
+		<td><div align="center">1 pair in the right kidney</div></td>
+	</tr>
+		<td><div align="center">Left lung</div></td>
+  		<td><div align="center">2 pairs in the left lung</div></td>
+	</tr>
+	<tr>
+        <td rowspan="2">X2: <i>Deftera</i></td>
+        <td rowspan="2"><div align="center">Unnamed</div></td>
+        <td><div align="center">Stomach</div></td>
+		<td><div align="center">1 pair in the stomach</div></td>
+	</tr>
+		<td><div align="center">Right lung</div></td>
+  		<td><div align="center">2 pairs in the right lung</div></td>
+	</tr>
+</table>
 
 ## <a id="In_Second_Opinion"></a>In *Second Opinion*
 Deftera in *Second Opinion* are fast-moving bodies that move in large circular patterns around the organ. If they hit the edge of the organ, they will bounce off in another direction. Unlike in *Under the Knife*, they can change direction mid-arc. The red Deftera creates yellow tumors, while the blue Deftera creates blue tumors.
@@ -46,7 +83,39 @@ With *Second Opinion* introducing difficulty settings, Deftera will do more dama
 - Keeping two pairs of Deftera on separate health can prevent them from merging with the same type, but will not prevent them from bumping into merged pairs.
 - In [*Fallen Heroes*](../../games/so/episodes/6_7.md) and *X-2: Deftera*, blood pools will spawn alongside Deftera. The blood pools can obscure Deftera and the tumors it creates, making them impossible to treat. Drain them as they appear.
 
-<!-- operation table goes here eventually -->
+### <a id="Operations_SO"></a>Operations in *Second Opinion*
+<table border="1">
+	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ(s)</th>
+		<th>Deftera Pairs</th>
+    </tr>
+  	<tr>
+        <td rowspan="2">3-4: <i>Something Precious</i></td>
+        <td rowspan="2"><div align="center">Amy Chase</div></td>
+        <td><div align="center">Stomach</div></td>
+		<td><div align="center">1 pair in the stomach</div></td>
+	</tr>
+		<td><div align="center">Left lung</div></td>
+  		<td><div align="center">2 pairs in the left lung</div></td>
+	</tr>
+	<tr>
+        <td>6-7: <i>Fallen Heroes</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Stomach</div></td>
+		<td><div align="center">2 pair in the stomach</div></td>
+	</tr>
+	<tr>
+        <td rowspan="2">X2: <i>Deftera</i></td>
+        <td rowspan="2"><div align="center">Unnamed</div></td>
+        <td><div align="center">Stomach</div></td>
+		<td><div align="center">1 pair in the stomach</div></td>
+	</tr>
+		<td><div align="center">Left lung</div></td>
+  		<td><div align="center">2 pairs in the left lung</div></td>
+	</tr>
+</table>
 
 ## <a id="Trivia"></a>Trivia
 - Deftera means “Monday” in Greek, a trait similar to all other GUILT strains.

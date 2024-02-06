@@ -5,10 +5,13 @@
 1. [General](#General)
 2. [In *Under the Knife*](#In_Under_the_Knife)
 	1. [Tips](#Tips_UTK)
+	2. [Operations in *Under the Knife*](#Operations_UTK)
 3. [In *Second Opinion*](#In_Second_Opinion)
 	1. [Tips](#Tips_SO)
+	2. [Operations in *Second Opinion*](#Operations_SO)
 4. [In *Under the Knife 2*](#In_Under_the_Knife_2)
 	1. [Tips](#Tips_UTK2)
+	2. [Operations in *Under the Knife 2*](#Operations_UTK2)
 5. [Trivia](#Trivia)
 6. [Gallery](#Gallery)
 7. [References](#References)
@@ -32,6 +35,67 @@ Tetarti’s primary way of dealing damage is from the antigen it emits. The toxi
 - Tetarti only require a very small amount of serum to incapacitate.
 - If two Tetarti overlap, no matter which color is injected will likely result in a miss along with extra diverticula. Wait for the Tetarti bodies to move off of each other before injecting.
 
+### <a id="Operations_UTK"></a>Operations in *Under the Knife*
+<table border="1">
+  	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+		<th>Waves of Tetarti</th>
+    </tr>
+	<tr>
+		<td rowspan="5">4-2: <i>Race for the Cure</i></td>
+ 		<td><div align="center">Joe Faison\*</div></td>
+		<td><div align="center">Liver</div></td>
+		<td><div align="center">(Immature, purple) 4 waves</div></td>
+ 	</tr>
+ 	<tr>
+ 		<td><div align="center">Zach Perry\*</div></td>
+		<td><div align="center">Liver</div></td>
+		<td><div align="center">(Immature, purple) 4 waves</div></td>
+ 	</tr>
+	 <tr>
+ 		<td><div align="center">Donald Grey\*</div></td>
+		<td><div align="center">Pancreas</div></td>
+		<td><div align="center">(Immature, yellow) 4 waves</div></td>
+ 	</tr>
+   	<tr>
+ 		<td><div align="center">Thomas Epps\*</div></td>
+		<td><div align="center">Stomach</div></td>
+		<td><div align="center">(Immature, green) 4 waves</div></td>
+ 	</tr>
+  	<tr>
+ 		<td><div align="center">Ray Barnett\*</div></td>
+		<td><div align="center">Stomach</div></td>
+		<td><div align="center">(Immature, green) 4 waves</div></td>
+	</tr>
+    <tr>
+        <td>4-4: <i>Stepping Up</i></td>
+        <td><div align="center">Greg Kasal</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">4 waves</div></td>
+	</tr>
+    <tr>
+        <td>5-4: <i>GUILT Evolves</i></td>
+        <td><div align="center">Eric Dorian</div></td>
+        <td><div align="center">Left kidney</div></td>
+		<td><div align="center">5 waves</div></td>
+	</tr>
+    <tr>
+        <td>6-5: <i>Fourth Sin</i></td>
+        <td><div align="center">4th Sinner</div></td>
+        <td><div align="center">Left lung</div></td>
+		<td><div align="center">4 waves</div></td>
+	</tr>
+    <tr>
+        <td>X4: <i>Tetarti</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">5 waves</div></td>
+	</tr>
+</table>
+\*The patients in this operation are in randomized locations, no matter which area on the map is chosen. Only one of each type is required, but due to the randomization, can be up to five.
+
 ## <a id="In_Second_Opinion"></a>In *Second Opinion*
 Tetarti in *Second Opinion* are slightly different from their *Under the Knife* counterparts. The speed they gain as the waves progress is more subtle, and there are much more waves. Three toxic diverticula will be present upon entering the organ. These diverticula will release toxic antigen when grown to their full size. Unlike in *Under the Knife*, the color of the diverticula are visible from the start.
 
@@ -48,6 +112,66 @@ Injecting the incorrect color into a Tetarti body will create two diverticula, o
 - Try to inject in front of the Tetarti, around its head and hands, to prevent misses.
 - If the colors of Tetarti are difficult to see, particularly between yellow and green, try adjusting your screen’s contrast settings.
 
+### <a id="Operations_SO"></a>Operations in *Second Opinion*
+<table border="1">
+  	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+		<th>Waves of Tetarti</th>
+    </tr>
+	<tr>
+		<td rowspan="5">4-2: <i>Race for the Cure</i></td>
+ 		<td><div align="center">Joe Faison</div></td>
+		<td><div align="center">Liver</div></td>
+		<td><div align="center">(Immature, purple) (Suburbs) 3 waves</div></td>
+ 	</tr>
+ 	<tr>
+ 		<td><div align="center">Zach Perry</div></td>
+		<td><div align="center">Liver</div></td>
+		<td><div align="center">(Immature, purple) (Residential Area) 3 waves</div></td>
+ 	</tr>
+	 <tr>
+ 		<td><div align="center">Donald Grey</div></td>
+		<td><div align="center">Pancreas</div></td>
+		<td><div align="center">(Immature, yellow) (The Citywalk) 3 waves</div></td>
+ 	</tr>
+   	<tr>
+ 		<td><div align="center">Thomas Epps</div></td>
+		<td><div align="center">Stomach</div></td>
+		<td><div align="center">(Immature, green) (Downtown) 3 waves</div></td>
+ 	</tr>
+  	<tr>
+ 		<td><div align="center">Ray Barnett</div></td>
+		<td><div align="center">Stomach</div></td>
+		<td><div align="center">(Immature, green) (Civic District) 3 waves</div></td>
+	</tr>
+    <tr>
+        <td>4-4: <i>Stepping Up</i></td>
+        <td><div align="center">Greg Kasal</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">5 waves</div></td>
+	</tr>
+    <tr>
+        <td>5-4: <i>GUILT Evolves</i></td>
+        <td><div align="center">Eric Dorian</div></td>
+        <td><div align="center">Left kidney</div></td>
+		<td><div align="center">6 waves</div></td>
+	</tr>
+    <tr>
+        <td>6-3: <i>Relapse</i></td>
+        <td><div align="center">Kathy Lyans</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">6 waves</div></td>
+	</tr>
+    <tr>
+        <td>X4: <i>Tetarti</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">7 waves</div></td>
+	</tr>
+</table>
+
 ## <a id="In_Under_the_Knife_2"></a>In *Under the Knife 2*
 Tetarti in *Under the Knife 2* are most mechanically similar to their *Under the Knife* counterparts, but visually similar to Tetarti in *Second Opinion*. They gain speed for every new wave and will start out relatively fast. Three toxic diverticula will be present upon entering the organ. These diverticula will release toxic antigen when grown to their full size. Unlike in *Under the Knife*, the color of the diverticula are visible from the start. *Under the Knife 2* introduces two new colors to Tetarti, being blue and black.
 
@@ -60,6 +184,40 @@ Injecting the incorrect color into a Tetarti body will create two diverticula, o
 - Tetarti only require a very small amount of serum to incapacitate.
 - The gel can briefly stop any of the antigen Tetarti creates from dealing damage.
 - Tetarti will often get stuck in corners turning. This can be used against it, since it’s essentially standing still.
+
+### <a id="Operations_UTK2"></a>Operations in *Under the Knife 2*
+<table border="1">
+  	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+		<th>Waves of Tetarti</th>
+    </tr>
+    <tr>
+        <td>5-2: <i>Retaliation</i></td>
+        <td><div align="center">Bao Nguyen</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">5 waves</div></td>
+	</tr>
+    <tr>
+        <td>6-3: <i>Widespread Fear</i></td>
+        <td><div align="center">Mick O'Mally</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">6 waves</div></td>
+	</tr>
+    <tr>
+        <td>6-7: <i>Tragedy</i></td>
+        <td><div align="center">Heinrich von Raitenau</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">5 waves</div></td>
+	</tr>
+    <tr>
+        <td>X-2: <i>Tetarti</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">6 waves</div></td>
+	</tr>
+</table>
 
 ## <a id="Trivia"></a>Trivia
 - Tetarti means “Wednesday” in Greek, a trait similar to all other GUILT strains.

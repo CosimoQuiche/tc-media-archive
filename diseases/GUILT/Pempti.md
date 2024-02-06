@@ -5,10 +5,13 @@
 1. [General](#General)
 2. [In *Under the Knife*](#In_Under_the_Knife)
 	1. [Tips](#Tips_UTK)
+	2. [Operations in *Under the Knife*](#Operations_UTK)
 3. [In *Second Opinion*](#In_Second_Opinion)
 	1. [Tips](#Tips_SO)
+	2. [Operations in *Second Opinion*](#Operations_SO)
 4. [In *Under the Knife 2*](#In_Under_the_Knife_2)
 	1. [Tips](#Tips_UTK2)
+	2. [Operations in *Under the Knife 2*](#Operations_UTK2)
 5. [Trivia](#Trivia)
 6. [Gallery](#Gallery)
 7. [References](#References)
@@ -36,6 +39,46 @@ Each laceration created by a laceration core deals 5 damage. Lasering small tumo
 - Injecting stabilizer into the Pempti mass will cause a miss.
 - Lasering tumor cores while they’re moving up or down during an attack, while not possible to defeat them in this state, will reduce their health to the minimum.
 
+### <a id="Operations_UTK"></a>Operations in *Under the Knife*
+<table border="1">
+  	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+		<th>Total Hits Until Defeat</th>
+    </tr>
+    <tr>
+        <td>4-6: <i>Taking a First Step</i></td>
+        <td><div align="center">Richard Anderson</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">N/A</div></td>
+	</tr>
+    <tr>
+        <td>4-8: <i>The Next Step</i></td>
+        <td><div align="center">Richard Anderson</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">N/A</div></td>
+	</tr>
+    <tr>
+        <td>4-10: <i>Doctor's Struggle</i></td>
+        <td><div align="center">Richard Anderson</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">7 total hits</div></td>
+	</tr>
+    <tr>
+        <td>6-6: <i>Fifth Sin</i></td>
+        <td><div align="center">5th Sinner</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">8 total hits</div></td>
+	</tr>
+    <tr>
+        <td>X5: <i>Pempti</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Liver</div></td>
+		<td><div align="center">8 total hits</div></td>
+	</tr>
+</table>
+
 ## <a id="In_Second_Opinion"></a>In *Second Opinion*
 Similarly to *Under the Knife*, Pempti appears as a large, gelatinous mass inside the lungs which gradually retracts as it’s attacked by nanomachine injections. Once the core is fully exposed, it can be damaged with the scalar laser. When Pempti is damaged enough, it will briefly become invulnerable before resurfacing. Any of the mini-cores spawned by the main core can also be defeated with the scalar laser. Unlike in *Under the Knife*, each type of mini-core has a distinct shape and color.
 During the research phases, Pempti is in an inactive state, appearing as a hazy ring moving under the gelatinous fluid. This “inactive” Pempti does not directly attack, instead only attacking when certain research phases are done.
@@ -58,6 +101,46 @@ On “Extreme” difficulty, available only in the [X operations](../../general/
 - While Pempti’s attacks are technically random, there are recognizable patterns. For example, tumor core waves often follow laceration core waves. 
 - There is also usually a “break” after a wave of rotation cores, allowing for a brief safe period to boost vitals or treat wounds.
 
+### <a id="Operations_SO"></a>Operations in *Second Opinion*
+<table border="1">
+  	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+		<th>Total Hits Until Defeat</th>
+    </tr>
+    <tr>
+        <td>4-6: <i>The First Step</i></td>
+        <td><div align="center">Richard Anderson</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">N/A</div></td>
+	</tr>
+    <tr>
+        <td>4-8: <i>The Next Step</i></td>
+        <td><div align="center">Richard Anderson</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">N/A</div></td>
+	</tr>
+    <tr>
+        <td>4-10: <i>Prolonged Struggle</i></td>
+        <td><div align="center">Richard Anderson</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">7 total hits</div></td>
+	</tr>
+    <tr>
+        <td>6-6: <i>The Future of GUILT</i></td>
+        <td><div align="center">P. Heigl</div></td>
+        <td><div align="center">Right Lung</div></td>
+		<td><div align="center">8 total hits</div></td>
+	</tr>
+    <tr>
+        <td>X5: <i>Pempti</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Right Lung</div></td>
+		<td><div align="center">9 total hits</div></td>
+	</tr>
+</table>
+
 ## <a id="In_Under_the_Knife_2"></a>In *Under the Knife 2*
 Pempti in *Under the Knife 2* is more mechanically similar to its *Under the Knife* counterpart but resembles its *Second Opinion* version in appearance, being a large, gelatinous mass inside the lungs which gradually retracts as it’s attacked by nanomachine injections. However, instead of one main core, there are now two which split in half, moving to the top right and bottom left of the lung. 
 Once the cores are fully exposed, they can be damaged with the scalar laser. When one of the main cores is damaged enough, they will both become briefly invulnerable before resurfacing. Any of the mini-cores spawned by the main cores can also be defeated with the scalar laser. As the scalar laser has already been developed at this point, there are no research phases.
@@ -73,6 +156,34 @@ On “Extreme” difficulty, available only in the X operations, laceration core
 ### <a id="Tips_UTK2"></a>Tips
 - Alternate damage between the main cores. This will make the beserk phase easier to get through.
 - Injecting stabilizer into the Pempti mass will cause a miss.
+
+### <a id="Operations_UTK2"></a>Operations in *Under the Knife 2*
+<table border="1">
+  	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+		<th>Total Hits Until Defeat</th>
+    </tr>
+    <tr>
+        <td>5-6: <i>The Carrier</i></td>
+        <td><div align="center">Reina Mayazumi</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">5 hits (upper), 5 hits (lower)</div></td>
+	</tr>
+    <tr>
+        <td>6-7: <i>Tragedy</i></td>
+        <td><div align="center">Christine</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">6 hits (upper), 6 hits (lower)</div></td>
+	</tr>
+    <tr>
+        <td>X-3: <i>Pempti</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">4 hits (upper), 6 hits (lower)</div></td>
+	</tr>
+</table>
 
 ## <a id="Trivia"></a>Trivia
 - Pempti means “Thursday” in Greek, a trait similar to all other GUILT strains.
