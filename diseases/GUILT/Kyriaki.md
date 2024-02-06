@@ -14,6 +14,7 @@ Kyriaki will hide in the organ until revealed with the ultrasound and exposed wi
 	2. [Operations in *Second Opinion*](#Operations_SO)
 4. [In *Under the Knife 2*](#In_Under_the_Knife_2)
 	1. [Tips](#Tips_UTK2)
+	2. [Operations in *Under the Knife 2*](#Operations_UTK2)
 5. [Trivia](#Trivia)
 6. [Gallery](#Gallery)
 7. [References](#References)
@@ -124,7 +125,6 @@ With *Second Opinion* introducing difficulty settings, Kyriaki will do different
 - Leaving a laceration or an incision on screen will prevent the next wave from spawning until it’s treated. This can be used to boost vitals before going into the next wave.
 
 ### <a id="Operations_SO"></a>Operations in *Second Opinion*
-<details markdown="1">
 <table border="1">
 	<tr>
 		<th>Episode</th>
@@ -195,7 +195,6 @@ With *Second Opinion* introducing difficulty settings, Kyriaki will do different
 		<td><div align="center">3+2 Immatures, 1 Mature & 1 Immature</div></td>
 	</tr>
 </table>
-</details>
 
 ## <a id="In_Under_the_Knife_2"></a>In *Under the Knife 2*
 Kyriaki in *Under the Knife 2* are most similar to those in *Second Opinion*, retaining the exact same attack patterns, but are a bit more aggressive and faster. *Under the Knife 2* introduces a new type of Kyriaki, being the Queen Kyriaki.
@@ -215,7 +214,45 @@ Queen Kyriaki are new, but behave almost identically to matures, creating triple
 - The gel can be used to slow down Kyriaki bodies if they’re hard to hit.
 - Leaving a laceration or incision on screen will prevent the next wave from spawning until it’s treated. This can be used to boost vitals before going into the next wave.
 
-<!-- the operation table goes here when we figure out how to split cells -->
+### <a id="Operations_UTK2"></a>Operations in *Under the Knife 2*
+<table border="1">
+	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+		<th>Amount of Kyriaki</th>
+    </tr>
+ 	<tr>
+		<td rowspan="3">3-6: <i>GUILT Returns</i></td>
+ 		<td><div align="center">Yayoi Akasaka</div></td>
+		<td><div align="center">Small intestine</div></td>
+		<td><div align="center">1+2 Immatures, 1 Mature</div></td>
+ 	</tr>
+ 	<tr>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Left lung</div></td>
+		<td><div align="center">2+1 Immatures, 1 Queen</div></td>
+ 	</tr>
+	 <tr>
+ 		<td><div align="center">Heather Ross</div></td>
+		<td><div align="center">Stomach</div></td>
+		<td><div align="center">2+1 Immatures, 1 Queen</div></td>
+ 	</tr>
+	<tr>
+        <td>6-7: <i>Tragedy</i></td>
+        <td><div align="center">Karl</div></td>
+        <td><div align="center">Large intestine</div></td>
+		<td><div align="center">2+2 Immatures, 1 Queen</div></td>
+	</tr>
+	<tr>
+        <td>X-1: <i>Kyriaki</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Left lung</div></td>
+		<td><div align="center">3+2 Immatures, 1 Queen</div></td>
+	</tr>
+</table>
+
+<!-- should i add an egg table too or something -->
 
 ## <a id="Trivia"></a>Trivia
 - Kyriaki means “Sunday” in Greek, a trait similar to all other GUILT strains.
