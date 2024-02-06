@@ -8,6 +8,7 @@ Kyriaki will hide in the organ until revealed with the ultrasound and exposed wi
 1. [General](#General)
 2. [In *Under the Knife*](#In_Under_the_Knife)
 	1. [Tips](#Tips_UTK)
+	2. [Operations in *Under the Knife*](#Operations_UTK)
 3. [In *Second Opinion*](#In_Second_Opinion)
 	1. [Tips](#Tips_SO)
 	2. [Operations in *Second Opinion*](#Operations_SO)
@@ -45,7 +46,65 @@ This consistent across all operations.
 - Gelling the Kyriaki bodies will also briefly prevent them from creating new lacerations.
 - Leaving a laceration or incision on screen will prevent the next wave from spawning until it’s treated. This can be used to boost [vitals](../../general/mechanics/Vitals.md) before going into the next wave.
 
-<!-- the operation table goes here when we figure out how to split cells -->
+### <a id="Operations_UTK"></a>Operations in *Under the Knife*
+<table border="1">
+	<tr>
+		<th>Episode</th>
+		<th>Host</th>
+		<th>Organ</th>
+		<th>Amount of Kyriaki</th>
+    </tr>
+    <tr>
+        <td>2-9: <i>Please Let Me Live</i></td>
+        <td><div align="center">Linda Reid</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">1+2 Immatures, 1 Mature</div></td>
+	</tr>
+	<tr>
+        <td>3-2: <i>GUILT</i></td>
+        <td><div align="center">Jack Reyes</div></td>
+        <td><div align="center">Small intestine</div></td>
+		<td><div align="center">2+3 Immatures, 1 Mature</div></td>
+    </tr>
+ 	<tr>
+		<td rowspan="5">5-2: <i>Under the Knife</i></td>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Random</div></td>
+		<td><div align="center">1+2 Immatures, 1 Mature</div></td>
+ 	</tr>
+ 	<tr>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Random</div></td>
+		<td><div align="center">2+3 Immatures, 1 Mature</div></td>
+ 	</tr>
+	 <tr>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Random</div></td>
+		<td><div align="center">2+2 Immatures, 1 Mature & 1 Immature</div></td>
+ 	</tr>
+   	<tr>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Random</div></td>
+		<td><div align="center">2+2 Immatures, 1 Mature & 1 Immature</div></td>
+ 	</tr>
+  	<tr>
+ 		<td><div align="center">Unnamed</div></td>
+		<td><div align="center">Random</div></td>
+		<td><div align="center">3+2 Immatures, 1 Mature & 1 Immature</div></td>
+	</tr>
+	<tr>
+        <td>6-2: <i>First Sin</i></td>
+        <td><div align="center">1st Sinner</div></td>
+        <td><div align="center">Small intestine</div></td>
+		<td><div align="center">2+2 Immatures, 1 Mature & 1 Immature</div></td>
+	</tr>
+	<tr>
+        <td>X1: <i>Kyriaki</i></td>
+        <td><div align="center">Unnamed</div></td>
+        <td><div align="center">Right lung</div></td>
+		<td><div align="center">3+2 Immatures, 1 Mature</div></td>
+	</tr>
+</table>
 
 ## <a id="In_Second_Opinion"></a>In *Second Opinion*
 Kyriaki in *Second Opinion* are nearly identical to their *Under the Knife* equivalent, using the same set of attacks and general approach to treatment. The main difference is that they are less aggressive, but move much faster around the organ. Both immature and mature Kyriaki are present as usual.
