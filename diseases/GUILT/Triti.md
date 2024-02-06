@@ -51,7 +51,7 @@ Triti will passively deal damage to the patient on a timer. The amount of damage
         <td><div align="center">Pancreas</div></td>
 	</tr>
 	<tr>
-        <td><div align="center">Shane Carter\*</div></td>
+        <td><div align="center">Shane Carter*</div></td>
         <td><div align="center">Pancreas</div></tsd>
   	</tr>
     <tr>
@@ -65,7 +65,7 @@ Triti will passively deal damage to the patient on a timer. The amount of damage
         <td><div align="center">Pancreas</div></td>
 	</tr>
 </table>
-\*This patient is only operated on if the thorn mist escapes the operating field. Only one of the patients in this operation needs to be treated for the operation to be completed.
+*This patient is only operated on if the thorn mist escapes the operating field. Only one of the patients in this operation needs to be treated for the operation to be completed.
 
 ## <a id="In_Second_Opinion"></a>In *Second Opinion*
 Triti in *Second Opinion* is comprised of multiple membranes arranged around the organ, connected and held in place by thorns. The thorns must be removed first, allowing membranes that no longer have thorns to be removed. Unlike in *Under the Knife*, there is no excision step with the scalpel.
@@ -98,11 +98,11 @@ Triti will passively deal damage to the patient on a timer. Unlike in *Under the
         <td><div align="center">Pancreas</div></td>
 	</tr>
 	<tr>
-        <td><div align="center">Shane Carter\*</div></td>
+        <td><div align="center">Shane Carter*</div></td>
         <td><div align="center">Pancreas</div></td>
   	</tr>
 	<tr>
-        <td><div align="center">George Wylie\*</div></td>
+        <td><div align="center">George Wylie*</div></td>
         <td><div align="center">Pancreas</div></td>
   	</tr>
     <tr>
@@ -116,7 +116,7 @@ Triti will passively deal damage to the patient on a timer. Unlike in *Under the
         <td><div align="center">Pancreas</div></td>
 	</tr>
 </table>
-\*These patients are only operated on if the thorn mist escapes the operating field. Only one of the patients in this operation needs to be treated for the operation to be completed.
+*These patients are only operated on if the thorn mist escapes the operating field. Only one of the patients in this operation needs to be treated for the operation to be completed.
 
 ## <a id="Trivia"></a>Trivia
 - Triti means “Tuesday” in Greek, a trait similar to all other GUILT strains.

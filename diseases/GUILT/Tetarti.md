@@ -45,27 +45,27 @@ Tetarti’s primary way of dealing damage is from the antigen it emits. The toxi
     </tr>
 	<tr>
 		<td rowspan="5">4-2: <i>Race for the Cure</i></td>
- 		<td><div align="center">Joe Faison\*</div></td>
+ 		<td><div align="center">Joe Faison*</div></td>
 		<td><div align="center">Liver</div></td>
 		<td><div align="center">(Immature, purple) 4 waves</div></td>
  	</tr>
  	<tr>
- 		<td><div align="center">Zach Perry\*</div></td>
+ 		<td><div align="center">Zach Perry*</div></td>
 		<td><div align="center">Liver</div></td>
 		<td><div align="center">(Immature, purple) 4 waves</div></td>
  	</tr>
 	 <tr>
- 		<td><div align="center">Donald Grey\*</div></td>
+ 		<td><div align="center">Donald Grey*</div></td>
 		<td><div align="center">Pancreas</div></td>
 		<td><div align="center">(Immature, yellow) 4 waves</div></td>
  	</tr>
    	<tr>
- 		<td><div align="center">Thomas Epps\*</div></td>
+ 		<td><div align="center">Thomas Epps*</div></td>
 		<td><div align="center">Stomach</div></td>
 		<td><div align="center">(Immature, green) 4 waves</div></td>
  	</tr>
   	<tr>
- 		<td><div align="center">Ray Barnett\*</div></td>
+ 		<td><div align="center">Ray Barnett*</div></td>
 		<td><div align="center">Stomach</div></td>
 		<td><div align="center">(Immature, green) 4 waves</div></td>
 	</tr>
@@ -94,8 +94,7 @@ Tetarti’s primary way of dealing damage is from the antigen it emits. The toxi
 		<td><div align="center">5 waves</div></td>
 	</tr>
 </table>
-\*The patients in this operation are in randomized locations, no matter which area on the map is chosen. Only one of each type is required, but due to the randomization, can be up to five.
-
+*The patients in this operation are in randomized locations, no matter which area on the map is chosen. Only one of each type is required, but due to the randomization, can be up to five.
 ## <a id="In_Second_Opinion"></a>In *Second Opinion*
 Tetarti in *Second Opinion* are slightly different from their *Under the Knife* counterparts. The speed they gain as the waves progress is more subtle, and there are much more waves. Three toxic diverticula will be present upon entering the organ. These diverticula will release toxic antigen when grown to their full size. Unlike in *Under the Knife*, the color of the diverticula are visible from the start.
 
