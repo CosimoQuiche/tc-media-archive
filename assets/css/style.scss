@@ -18,3 +18,10 @@ body {
 .site-footer {
   display: none;
 }
+
+/* Make tables not have weird gaps */
+.markdown-body table {
+  width: 100%;
+  overflow: auto;
+  display: table;
+}
