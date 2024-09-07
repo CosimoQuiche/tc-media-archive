@@ -106,8 +106,8 @@ Triti will passively deal damage to the patient on a timer. Unlike in *Under the
         <td><div align="center">Pancreas</div></td>
   	</tr>
     <tr>
-        <td>6-7: <i>Alex Yang</i></td>
-        <td><div align="center">3rd Sinner</div></td>
+        <td>6-7: <i>Fallen Heroes</i></td>
+        <td><div align="center">Alex Yang</div></td>
         <td><div align="center">Pancreas</div></td>
 	</tr>
     <tr>
