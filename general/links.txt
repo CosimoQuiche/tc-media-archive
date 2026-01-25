@@ -156,8 +156,33 @@ https://youtu.be/Mt5w846YkAY - Trauma Team Character Trailer: Gabriel Cunningham
 https://youtu.be/YVW7y-TEP8Q - Trauma Team Character Trailer: Naomi Kimishima (ENG version)
 https://youtu.be/JOyAMvA2Hqo - Trauma Team Trailer: Rosalia (ENG version)
 
+JPN Minisites
+https://web.archive.org/web/20130509193212/http://www.atlus.co.jp:80/cs/game/ds/kad/index.html - UTK
+https://web.archive.org/web/20130512082421/http://www.atlus.co.jp/cs/game/wii/caduceus_z/index.html - SO
+https://web.archive.org/web/20110726033001/http://cnb.atlusnet.jp/index.html - NB
+https://web.archive.org/web/20090914083528/http://www.new-blood.jp/ - NB (website + flash game)
+https://web.archive.org/web/20110722201726/http://99c2.atlusnet.jp/ - UTK2
+https://web.archive.org/web/20160329071354/http://hosp.atlusnet.jp/ - TT
+
+US Minisites (These are also avaliable on Flashpoint)
+https://web.archive.org/web/20080912040509/http://www.atlus.com/tcutk/ - UTK
+https://web.archive.org/web/20080911182621/http://www.atlus.com/tcso/ - SO
+https://web.archive.org/web/20081219010639/http://www.atlus.com/tcnb/ - NB
+https://web.archive.org/web/20081217014013/http://www.atlus.com/tcutk2/ - UTK2
+https://web.archive.org/web/20120120194156/http://www.atlus.com/traumateam/ - TT
+https://web.archive.org/web/20160306020339/http://www.atlus.com/traumacenter/ - General
+
 TT Dev Blog
 https://web.archive.org/web/20160329071354/http://hosp.atlusnet.jp/blog/
+
+Legacy Sites
+https://atlus.com/atlus-titles/tcutk/ - UTK
+https://atlus.com/atlus-titles/tcso/ - SO
+https://atlus.com/atlus-titles/tcnb/ - NB
+https://atlus.com/atlus-titles/tcutk2/ - UTK2
+https://atlus.com/atlus-titles/traumateam/ - TT
+https://www.atlus.co.jp/title-archive/cnb/ - JPN NB
+https://www.atlus.co.jp/title-archive/99c2/ - JPN UTK2
 
 TT Twitter Accounts:
 https://web.archive.org/web/20150510214153/https://twitter.com/Hospital_ATLUS - @Hospital_ATLUS
@@ -167,9 +192,11 @@ TT Pilot
 https://youtu.be/1vzLeYr61dY - Trauma Team Pilot
 
 Full Plays
+https://youtu.be/NEgoQmiN2uk - Longplay of Trauma Center: Under the Knife
 https://youtu.be/f_qsEcdWvb0 - All XS - Trauma Center: Second Opinion (Wii)
 https://youtu.be/LzKyhoTPkxM - (Wii) Trauma Center: Second Opinion - Longplay 100%
 https://youtu.be/MLSh_MyE3jw - (Wii) Trauma Center: New Blood - Longplay 100%
+https://youtu.be/0S641mRgBt8 - Longplay of Trauma Center: Under the Knife 2
 
 G4TV Archive.org Videos
 https://archive.org/details/g4tv.com-video33366 - Trauma Center 2 Trailer
@@ -257,7 +284,6 @@ ROM Hacks
 https://www.romhacking.net/translations/5774/ - Trauma Center: Under the Knife (Brazilian Portuguese)
 https://www.romhacking.net/hacks/5565/ - Trauma Center Under the Knife Button Controls Hack
 https://www.romhacking.net/hacks/1807/ - Trauma Center Under the Knife 2 Wii Controls Hack
-
 
 Kizunasan Blog Links
 http://kizunasan.blog97.fc2.com/blog-entry-338.html  - 5/27ファミ通フラゲ情報　色々【追記アリ】
