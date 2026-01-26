@@ -233,6 +233,12 @@ https://archive.org/details/g4tv.com-video45930-flvhd - Trauma Team Review
 Review Videos
 https://youtu.be/XbCWp-o_mUw - Trauma Center: Second Opinion Nintendo Wii Review - Video
 
+News Articles
+https://web.archive.org/web/20231009230126/https://www.famitsu.com/game/coming/1214531_1407.html - ニンテンドーDSで続編が登場！ 『救急救命カドゥケウス2』
+https://web.archive.org/web/20240204124411/https://www.famitsu.com/game/news/2007/07/10/103,1184055903,74915,0,0.html - アトラス.U.S.AがE3で『カドゥケウス』シリーズの最新作を発表
+https://web.archive.org/web/20070126012101/http://hotwired.goo.ne.jp/news/culture/story/20051019203.html - 『超執刀カドゥケウス』『逆転裁判 蘇る逆転』レビュー
+https://game.watch.impress.co.jp/docs/review/382425.html - 6人の医師による6つのストーリー 感動の医療ドラマが貴方を待っている
+
 TC 2025 OST Releases
 https://www.atlus.co.jp/gamemusic/news/1335/
 https://nex-tone.lnk.to/vlEXKfh2 - UTK
@@ -279,6 +285,10 @@ https://speeddemosarchive.com/oldnews09q2.html - search for trauma center
 
 Daisuke Kaneda's Blog
 https://web.archive.org/web/20160407214717/http://www.atlusnet.jp/topic/list?creator_id=21&category=creator_works
+
+Japanese UTK Guide Websites
+https://web.archive.org/web/20100510044614/http://www.geocities.jp/bugloderunner/junk/kadoke.html
+http://caduceus.seesaa.net/
 
 ROM Hacks
 https://www.romhacking.net/translations/5774/ - Trauma Center: Under the Knife (Brazilian Portuguese)
